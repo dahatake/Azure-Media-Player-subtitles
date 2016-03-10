@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<title>Azure Media Indexer での字幕作成</title>
+
+</head>
+	<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: x-large;">
+	<h1>HTML5 Video + Trackでの字幕</h1>
+	Azure Media Indexer と Microsoft Translator で自動生成したものです。<br />
+	ビデオプレイヤーの[CC]ボタンを押して、字幕データの切り替えを試してください。
+	<br />
+	<br />
+	TTML(Timed Text Markup Language)ファイル:
+	<a target="_blank" href="KEY01.mp4.ttml">英語</a>
+	<a target="_blank" href="KEY01.mp4.ja.ttml">日本語</a>
+	<a target="_blank" href="KEY01.mp4.es.ttml">スペイン語</a>
+	<a target="_blank" href="KEY01.mp4.it.ttml">イタリア語</a>
+	<a target="_blank" href="KEY01.mp4.fr.ttml">フランス語</a>
+	<a target="_blank" href="KEY01.mp4.pt.ttml">ポルトガル語</a>
+	<a target="_blank" href="KEY01.mp4.ko.ttml">ハングル</a>
+	<a target="_blank" href="KEY01.mp4.zh-CHS.ttml">中国語(簡体字)</a>
+	<a target="_blank" href="KEY01.mp4.tlh.ttml">クリンゴン語</a>
+	<div>
+		<video id="videoPlayer" controls="controls" autoplay="autoplay" width="1000"
+			src="https://dahatakemedia.blob.core.windows.net/asset-5952803a-0d00-80c4-9cca-f1e58c00b15a/KEY01.mp4?sv=2012-02-12&sr=c&si=0a2bfe40-1e41-4e70-b74a-7e61154ab30e&sig=j%2Bg%2BoMGwnlYaAPulYwOYKsZ83djeTqhEWWjxqPfgQLk%3D&se=2025-11-13T01%3A24%3A39Z">
+			<track id="trackEN"  src="KEY01.mp4.ttml"     kind="captions" label="英語" default></track>
+			<track id="trackJP"  src="KEY01.mp4.ja.ttml"  kind="captions" label="日本語"></track>
+			<track id="trackES"  src="KEY01.mp4.es.ttml"  kind="captions" label="スペイン語"></track>
+			<track id="trackIT"  src="KEY01.mp4.it.ttml"  kind="captions" label="イタリア語"></track>
+			<track id="trackFR"  src="KEY01.mp4.fr.ttml"  kind="captions" label="フランス語"></track>
+			<track id="trackPT"  src="KEY01.mp4.pt.ttml"  kind="captions" label="ポルトガル語"></track>
+			<track id="trackKO"  src="KEY01.mp4.ko.ttml"  kind="captions" label="ハングル語"></track>
+			<track id="trackZhCHS"  src="KEY01.mp4.zh-CHS.ttml"  kind="captions" label="中国語(簡体字)"></track>
+			<track id="trackTLH" src="KEY01.mp4.tlh.ttml" kind="captions" label="クリンゴン語"></track>
+		</video>
+	</div>
+	
+	<h5>
+	ご利用のデバイスとネットワークの状態次第では、再生できない場合がありますのでご了承ください。
+</h5>
+
+<script type="text/javascript">  var appInsights=window.appInsights||function(config){    function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t    }({        instrumentationKey:"04d016f6-aaf7-4b99-8f02-121ee0916aa9"    });           window.appInsights=appInsights;    appInsights.trackPageView();</script>
+
+</body>
+</html>
