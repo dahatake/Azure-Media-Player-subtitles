@@ -1,0 +1,1714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.942</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:54.290" end="00:00:58.110">Good morning and welcome to build twenty sixteen</p>
+      <p begin="00:00:58.110" end="00:01:02.290">it fantastic to be back here in san francisco welcome</p>
+      <p begin="00:01:02.290" end="00:01:06.840">to everyone here with us as well as everyone joining us on the web.</p>
+      <p begin="00:01:06.840" end="00:01:11.660">You know, for me it feels like I've marked all my adult life</p>
+      <p begin="00:01:11.660" end="00:01:16.090">with microsoft developer conferences in fact when I think about even the but</p>
+      <p begin="00:01:16.090" end="00:01:20.500">the might children I think about the various platform eras at microsoft</p>
+      <p begin="00:01:20.500" end="00:01:23.360">all my son belongs to ys</p>
+      <p begin="00:01:23.360" end="00:01:27.670">and my daughters are all dot net and it's so it's so</p>
+      <p begin="00:01:27.670" end="00:01:32.420">fantastic to be back here and talking to developers there's one thing</p>
+      <p begin="00:01:32.420" end="00:01:37.860">that's so unique about developer conferences developers</p>
+      <p begin="00:01:37.860" end="00:01:41.970">come here excited already about technology they get to</p>
+      <p begin="00:01:41.970" end="00:01:46.670">see more technology meet more people who are talking technology</p>
+      <p begin="00:01:46.670" end="00:01:49.800">most importantly they walk away inspired.</p>
+      <p begin="00:01:50.960" end="00:01:54.930">By what they see they learn to build even more</p>
+      <p begin="00:01:54.930" end="00:02:00.090">cooler technology that uniqueness of developer conferences</p>
+      <p begin="00:02:00.090" end="00:02:04.150">is what we want to celebrate here over the next three days</p>
+      <p begin="00:02:04.150" end="00:02:08.920">that ability of developers to amplify technology is what we want</p>
+      <p begin="00:02:08.920" end="00:02:14.070">to talk about a over the course of this conference at build.</p>
+      <p begin="00:02:14.070" end="00:02:18.540">Talking about all of this technology.</p>
+      <p begin="00:02:18.540" end="00:02:23.860">In fact there is a much more mainstream dialogue.</p>
+      <p begin="00:02:23.860" end="00:02:25.460">About the role of technology.</p>
+      <p begin="00:02:26.870" end="00:02:29.310">In our society.</p>
+      <p begin="00:02:29.310" end="00:02:33.900">And, it's the right time to have that dialogue because technologies so much more</p>
+      <p begin="00:02:33.900" end="00:02:37.360">mainstream it's embedded in our daily lives</p>
+      <p begin="00:02:37.360" end="00:02:41.170">it's embedded in our companies in our industries in our economies</p>
+      <p begin="00:02:41.170" end="00:02:45.100">and countries much more so than ever before.</p>
+      <p begin="00:02:46.370" end="00:02:48.860">So, we have these.</p>
+      <p begin="00:02:48.860" end="00:02:53.680">Profound questions and issues in front of us.</p>
+      <p begin="00:02:53.680" end="00:02:58.370">technology driving economic growth for everyone?</p>
+      <p begin="00:02:59.510" end="00:03:03.540">Or is economic growth stalled in spite?</p>
+      <p begin="00:03:03.540" end="00:03:09.080">Of technological spend.</p>
+      <p begin="00:03:09.080" end="00:03:15.100">Is technology empowering people or is it displacing us?</p>
+      <p begin="00:03:15.100" end="00:03:20.020">Is technology helping us preserve our enduring values such as</p>
+      <p begin="00:03:20.020" end="00:03:21.330">privacy?</p>
+      <p begin="00:03:21.330" end="00:03:24.920">Or is it compromising it?</p>
+      <p begin="00:03:24.920" end="00:03:28.230">These are the issues that are being discussed and their the</p>
+      <p begin="00:03:28.230" end="00:03:32.940">right issues for us to have a broad dialogue not just in one</p>
+      <p begin="00:03:32.940" end="00:03:39.940">company not just in one of our industry but as a society.</p>
+      <p begin="00:03:39.940" end="00:03:41.330">I m a optimist.</p>
+      <p begin="00:03:42.820" end="00:03:44.780">We as a company.</p>
+      <p begin="00:03:44.780" end="00:03:48.420">Are optimistic about what technology can</p>
+      <p begin="00:03:48.420" end="00:03:52.970">do for us I believe technology can</p>
+      <p begin="00:03:52.970" end="00:03:57.090">in fact drive economic growth all over the world?</p>
+      <p begin="00:03:57.090" end="00:04:02.790">I believe technology can empower us.</p>
+      <p begin="00:04:02.790" end="00:04:09.030">I believe technology can be used to preserve our enduring values.</p>
+      <p begin="00:04:09.030" end="00:04:13.000">We do however have to make choices how we go about building</p>
+      <p begin="00:04:13.000" end="00:04:13.500">technology.</p>
+      <p begin="00:04:14.570" end="00:04:17.890">We need to make design choices.</p>
+      <p begin="00:04:17.890" end="00:04:22.140">Economic choices and social choices.</p>
+      <p begin="00:04:22.140" end="00:04:23.840">That ensure.</p>
+      <p begin="00:04:23.840" end="00:04:28.160">That the way we build technology the way we use technology helps</p>
+      <p begin="00:04:28.160" end="00:04:34.130">us make progress as a society that optimism.</p>
+      <p begin="00:04:35.260" end="00:04:38.800">And, that several choices is embedded</p>
+      <p begin="00:04:38.800" end="00:04:42.500">encoded in our mission to empower every person</p>
+      <p begin="00:04:42.500" end="00:04:47.970">and every organization on the planet to achieve more.</p>
+      <p begin="00:04:47.970" end="00:04:51.150">want to make things so that others.</p>
+      <p begin="00:04:52.640" end="00:04:56.020">Can make things and make things happen?</p>
+      <p begin="00:04:56.020" end="00:05:00.690">That is our broad platform approach.</p>
+      <p begin="00:05:00.690" end="00:05:04.350">And, when we think about driving success?</p>
+      <p begin="00:05:04.350" end="00:05:08.140">And, empowering people and businesses through digital</p>
+      <p begin="00:05:08.140" end="00:05:08.640">technology.</p>
+      <p begin="00:05:09.860" end="00:05:14.180">We have to start with all of you as developers we have</p>
+      <p begin="00:05:14.180" end="00:05:17.610">to empower you with technology but more importantly we have to</p>
+      <p begin="00:05:17.610" end="00:05:21.940">create that opportunity for you to be able to express your</p>
+      <p begin="00:05:21.940" end="00:05:22.440">creativity.</p>
+      <p begin="00:05:23.690" end="00:05:29.590">That can change the world and throughout this developer conference that's what we want to talk</p>
+      <p begin="00:05:29.590" end="00:05:32.160">about the platforms that</p>
+      <p begin="00:05:32.160" end="00:05:36.070">you get to work on that really.</p>
+      <p begin="00:05:36.070" end="00:05:41.720">Are going to help you change the world?</p>
+      <p begin="00:05:41.720" end="00:05:44.430">We live in a mobile-first cloud-first world we've talked</p>
+      <p begin="00:05:44.430" end="00:05:50.810">about this many times before but it's always good to go back to make sure.</p>
+      <p begin="00:05:50.810" end="00:05:54.050">That we are grounded in what we mean by mobile-first cloud-first.</p>
+      <p begin="00:05:55.200" end="00:05:59.620">For us mobile first is not about the mobility of any single device</p>
+      <p begin="00:05:59.620" end="00:06:04.290">it is the mobility of the human experience across all the devices</p>
+      <p begin="00:06:04.290" end="00:06:08.630">that all the computing in our lives.</p>
+      <p begin="00:06:08.630" end="00:06:10.790">Cloud is not a single destination.</p>
+      <p begin="00:06:12.270" end="00:06:14.520">Cloud is a new form of computing.</p>
+      <p begin="00:06:15.710" end="00:06:20.520">That in fact enables that mobility of experience across all our devices</p>
+      <p begin="00:06:20.520" end="00:06:25.480">it infuses those experiences with intelligence because it has the</p>
+      <p begin="00:06:25.480" end="00:06:29.960">ability to reason over large amounts of data using a distributed computing</p>
+      <p begin="00:06:29.960" end="00:06:37.630">fabric that's what is the rich mobile-first cloud-first world for which we are building.</p>
+      <p begin="00:06:37.630" end="00:06:44.310">And, we are building three interconnected platforms.</p>
+      <p begin="00:06:44.310" end="00:06:44.880">To morrow</p>
+      <p begin="00:06:44.880" end="00:06:51.740">you want to hear from struck got three about our intelligent cloud and azure.</p>
+      <p begin="00:06:51.740" end="00:06:54.220">Scott's going to talk about extensively</p>
+      <p begin="00:06:54.220" end="00:06:58.180">how for all of the new application patterns starting with</p>
+      <p begin="00:06:58.180" end="00:07:04.400">iot ttwo mobile to web to machine learning how</p>
+      <p begin="00:07:04.400" end="00:07:08.630">you can use data and infrastructure to build these</p>
+      <p begin="00:07:08.630" end="00:07:13.470">applications more importantly he's going to talk about how.</p>
+      <p begin="00:07:13.470" end="00:07:13.990">Building</p>
+      <p begin="00:07:13.990" end="00:07:18.610">more azure gives you the opportunity to reach over five</p>
+      <p begin="00:07:18.610" end="00:07:25.320">million businesses that are already in azure active directory.</p>
+      <p begin="00:07:25.320" end="00:07:30.300">Qi lu is going to talk tomorrow about the opportunity with office</p>
+      <p begin="00:07:30.300" end="00:07:31.990">three-six five.</p>
+      <p begin="00:07:31.990" end="00:07:36.540">We're opening up office three-six five unlike ever before your</p>
+      <p begin="00:07:36.540" end="00:07:40.170">applications your data to office three-six five connectors.</p>
+      <p begin="00:07:41.380" end="00:07:43.440">And, add-ins can be found within</p>
+      <p begin="00:07:43.440" end="00:07:48.830">the ui scaffolding of office very naturally by the users of office.</p>
+      <p begin="00:07:48.830" end="00:07:51.560">That is one-point-two billion users of office</p>
+      <p begin="00:07:51.560" end="00:07:56.480">ultimately will be able to get access to all of your applications because they get</p>
+      <p begin="00:07:56.480" end="00:08:01.230">built-in to the ui scaffolding we also want to take the rich</p>
+      <p begin="00:08:01.230" end="00:08:06.190">semantic information underneath office that is people their relationships</p>
+      <p begin="00:08:06.190" end="00:08:10.160">this schedules their files and all the other artifacts</p>
+      <p begin="00:08:10.160" end="00:08:14.920">and expose it as microsoft graph so that you can use it</p>
+      <p begin="00:08:14.920" end="00:08:18.070">you can extended as part of your applications</p>
+      <p begin="00:08:18.070" end="00:08:22.590">so cheese want to talk about what that rich world looks like.</p>
+      <p begin="00:08:22.590" end="00:08:23.490">And, this morning.</p>
+      <p begin="00:08:24.530" end="00:08:30.350">Cherry and I will talk about more personal computing.</p>
+      <p begin="00:08:30.350" end="00:08:32.600">Windows ten is off.</p>
+      <p begin="00:08:33.840" end="00:08:35.880">To an amazing start.</p>
+      <p begin="00:08:35.880" end="00:08:40.620">It's the fastest-growing version of windows both consumers and</p>
+      <p begin="00:08:40.620" end="00:08:42.960">enterprises.</p>
+      <p begin="00:08:42.960" end="00:08:46.990">We have tremendous innovation in device.</p>
+      <p begin="00:08:46.990" end="00:08:51.710">In fact it's new categories of windows devices whether they are iot</p>
+      <p begin="00:08:51.710" end="00:09:00.340">t or hololens are getting created.</p>
+      <p begin="00:09:00.340" end="00:09:03.690">And, this morning you'll hear from terry in team</p>
+      <p begin="00:09:03.690" end="00:09:08.420">about all of the advances with windows how</p>
+      <p begin="00:09:08.420" end="00:09:12.980">we are bringing the natural user interface whether it be touch.</p>
+      <p begin="00:09:12.980" end="00:09:16.110">Ink voice.</p>
+      <p begin="00:09:16.110" end="00:09:20.940">Or even image recognition.</p>
+      <p begin="00:09:20.940" end="00:09:27.980">So, that you can use them to build new categories of applications.</p>
+      <p begin="00:09:27.980" end="00:09:30.580">We also want to talk about how.</p>
+      <p begin="00:09:30.580" end="00:09:34.340">In gaming and consumptive applications we're going to open up</p>
+      <p begin="00:09:34.340" end="00:09:41.250">both the pc and the consul for new opportunities for developers.</p>
+      <p begin="00:09:41.250" end="00:09:45.180">We also going to talk about how windows is your ultimate</p>
+      <p begin="00:09:45.180" end="00:09:49.940">dev box where you can do all your application development</p>
+      <p begin="00:09:49.940" end="00:09:58.110">for windows and beyond right there on a windows pc.</p>
+      <p begin="00:09:58.110" end="00:10:04.040">We also want to talk about our new emerging platform.</p>
+      <p begin="00:10:04.040" end="00:10:08.590">Where in a very early days of this it's actually the into section?</p>
+      <p begin="00:10:08.590" end="00:10:15.770">Of all of our three ambitions recall it conversations as a platform.</p>
+      <p begin="00:10:15.770" end="00:10:20.600">It's a simple concept yet it's very powerful its impact</p>
+      <p begin="00:10:20.600" end="00:10:24.250">is about taking the our of human language.</p>
+      <p begin="00:10:25.510" end="00:10:32.660">applying it more pervasively to all of our computing.</p>
+      <p begin="00:10:32.660" end="00:10:36.170">That means we need to infuse into our computers and</p>
+      <p begin="00:10:36.170" end="00:10:43.240">computing intelligence, intelligence about us and our context.</p>
+      <p begin="00:10:43.240" end="00:10:46.010">And, by doing so we think.</p>
+      <p begin="00:10:46.010" end="00:10:50.270">This can have asked profound an impact as the previous platform shifts</p>
+      <p begin="00:10:50.270" end="00:10:54.540">of had whether it be gui whether it be the web</p>
+      <p begin="00:10:54.540" end="00:10:57.480">are touch on mobile.</p>
+      <p begin="00:10:57.480" end="00:11:03.500">So, we'll have extensive conversation about the beginning of this new platform journey but</p>
+      <p begin="00:11:03.500" end="00:11:08.310">we want to get started with windows ten and what that opportunity</p>
+      <p begin="00:11:08.310" end="00:11:15.960">represents to all of you and do that let me please welcome terry myerson up on stage thank you?</p>
+      <p begin="00:11:52.410" end="00:11:52.910">Samoa.</p>
+      <p begin="00:12:34.890" end="00:12:36.320">So, excited to be back here and</p>
+      <p begin="00:12:36.320" end="00:12:40.910">filled with all of you I mean it really is such a great time to be</p>
+      <p begin="00:12:40.910" end="00:12:46.640">a windows developer and today it's going to get even better.</p>
+      <p begin="00:12:46.640" end="00:12:49.520">Satya shared our ambition with windows is the make</p>
+      <p begin="00:12:49.520" end="00:12:54.460">computing more personal and change the way all of us interact with.</p>
+      <p begin="00:12:54.460" end="00:12:59.960">An benefit from technology enabling us interact with devices more</p>
+      <p begin="00:12:59.960" end="00:13:00.460">intuitively</p>
+      <p begin="00:13:01.540" end="00:13:03.930">using natural language conversations.</p>
+      <p begin="00:13:05.380" end="00:13:08.860">Evolving us mechanical keyboard and mouse.</p>
+      <p begin="00:13:08.860" end="00:13:09.930">Talks.</p>
+      <p begin="00:13:09.930" end="00:13:11.880">And, beyond taking advantage</p>
+      <p begin="00:13:11.880" end="00:13:15.210">more human capabilities like our voice</p>
+      <p begin="00:13:15.210" end="00:13:20.580">hence our face gestures fingerprints.</p>
+      <p begin="00:13:20.580" end="00:13:24.090">Expanding beyond today's pcs and phones.</p>
+      <p begin="00:13:24.090" end="00:13:26.440">Bringing computing into our world.</p>
+      <p begin="00:13:26.440" end="00:13:32.990">With holograms immersing ourselves in games across devices.</p>
+      <p begin="00:13:32.990" end="00:13:34.560">Windows ten is our home for</p>
+      <p begin="00:13:34.560" end="00:13:41.220">this evolution making all of us more productive enabling us to have more fun.</p>
+      <p begin="00:13:41.220" end="00:13:43.910">Windows tennis been out for eight months.</p>
+      <p begin="00:13:43.910" end="00:13:53.620">Is already being actively used by over two hundred seventy million people?</p>
+      <p begin="00:13:53.620" end="00:13:56.320">And, customers are more engaged than ever before</p>
+      <p begin="00:13:56.320" end="00:14:00.850">spending over seventy five billion hours on windows ten.</p>
+      <p begin="00:14:00.850" end="00:14:03.660">And, our hardware partners they have launched over</p>
+      <p begin="00:14:03.660" end="00:14:08.410">five hundred new devices designed for windows tans devices with large</p>
+      <p begin="00:14:08.410" end="00:14:11.810">screens small screens no screens and everything in between.</p>
+      <p begin="00:14:13.250" end="00:14:18.340">Or humbled by this response across the globe and do by?</p>
+      <p begin="00:14:18.340" end="00:14:28.540">Here right here in san francisco.</p>
+      <p begin="00:14:28.540" end="00:14:32.680">Now of.</p>
+      <p begin="00:14:32.680" end="00:14:36.990">This momentum it's not just can windows tennis after the</p>
+      <p begin="00:14:36.990" end="00:14:41.980">fastest adoption of any release of windows ever and</p>
+      <p begin="00:14:41.980" end="00:14:46.240">is not just consumers its enterprise customers also</p>
+      <p begin="00:14:46.240" end="00:14:51.240">consider just the united states department of defense for million device form</p>
+      <p begin="00:14:51.240" end="00:14:56.180">million devices will upgrade to windows tend just this year?</p>
+      <p begin="00:14:56.180" end="00:15:00.950">So, on behalf of the entire windows team were happy to welcome all of these</p>
+      <p begin="00:15:00.950" end="00:15:05.130">customers to windows ten where they have a brand-new pc</p>
+      <p begin="00:15:05.130" end="00:15:07.990">five-year-old pc.</p>
+      <p begin="00:15:07.990" end="00:15:14.780">Or brand-new mac join us to welcome on windows ten.</p>
+      <p begin="00:15:14.780" end="00:15:18.960">Now every day we're working hard on making windows ten better to</p>
+      <p begin="00:15:18.960" end="00:15:22.160">delight our users all around the world.</p>
+      <p begin="00:15:22.160" end="00:15:23.090">And, today</p>
+      <p begin="00:15:23.090" end="00:15:27.940">was so excited to share with you what we've been working on the next wave of innovations</p>
+      <p begin="00:15:27.940" end="00:15:32.520">are microsoft's the anniversary update to windows ten</p>
+      <p begin="00:15:32.520" end="00:15:39.280">coming this summer for free all of our windows ten customers.</p>
+      <p begin="00:15:39.280" end="00:15:39.780">Samoa.</p>
+      <p begin="00:15:42.130" end="00:15:45.000">How many of your windows insiders?</p>
+      <p begin="00:15:45.000" end="00:15:49.470">One windows insiders out there.</p>
+      <p begin="00:15:50.680" end="00:15:54.450">So, awesome I mean from bald team this things again you guys</p>
+      <p begin="00:15:54.450" end="00:15:56.620">helped shape everything we're doing</p>
+      <p begin="00:15:56.620" end="00:16:00.850">that microsoft giving us feedback every day on every pixel every ounce of</p>
+      <p begin="00:16:00.850" end="00:16:04.900">performance we can squeeze and of course today you can go download the latest</p>
+      <p begin="00:16:04.900" end="00:16:10.490">builds and give us feedback and everything we're talking about today with this</p>
+      <p begin="00:16:10.490" end="00:16:15.370">anniversary update more personal computing really does come to life more.</p>
+      <p begin="00:16:15.370" end="00:16:17.280">That windows hello.</p>
+      <p begin="00:16:17.280" end="00:16:18.340">Today you</p>
+      <p begin="00:16:18.340" end="00:16:23.060">can more securely and easily log into your device than ever before.</p>
+      <p begin="00:16:23.060" end="00:16:26.860">But, with this anniversary update now going to be able to use this secure and</p>
+      <p begin="00:16:26.860" end="00:16:32.210">easy biometric authentication with your apps or even better</p>
+      <p begin="00:16:32.210" end="00:16:36.980">with microsoft edge now be the first and only browser to</p>
+      <p begin="00:16:36.980" end="00:16:46.650">support this secure and easy biometric authentication to all of the supporting websites.</p>
+      <p begin="00:16:46.650" end="00:16:51.590">The anniversary update will introduce of all-new windows ink experience our goal is to</p>
+      <p begin="00:16:51.590" end="00:16:57.730">make using a pan with your device as seamless and as easy as pen and paper.</p>
+      <p begin="00:16:57.730" end="00:17:01.870">We designed this anniversary update will come to your xbox one now</p>
+      <p begin="00:17:01.870" end="00:17:04.920">bring all of your windows applications into your living room</p>
+      <p begin="00:17:04.920" end="00:17:09.310">and enabling you to turn on any retail xbox one</p>
+      <p begin="00:17:09.310" end="00:17:15.460">into a dev kit and of course the anniversary update will come the hololens</p>
+      <p begin="00:17:15.460" end="00:17:19.860">enabling all new ways to work communicate learn and play.</p>
+      <p begin="00:17:19.860" end="00:17:22.980">And, cortana in the anniversary update</p>
+      <p begin="00:17:22.980" end="00:17:27.010">to be incredibly new ways to get stuff done.</p>
+      <p begin="00:17:27.010" end="00:17:33.120">So, please welcome bryan showed you bryan roper do a demo of the anniversary update.</p>
+      <p begin="00:17:34.730" end="00:17:37.740">Thank you terry.</p>
+      <p begin="00:17:37.740" end="00:17:43.810">Ladies and gentlemen how you're feeling this morning man this through this I</p>
+      <p begin="00:17:43.810" end="00:17:47.790">was luxurious not a chance now how you feeling.</p>
+      <p begin="00:17:47.790" end="00:17:50.590">The awesome now with this anniversary update man I'm</p>
+      <p begin="00:17:50.590" end="00:17:54.400">pumped we're going to completely modernize the pc we're going to make it safer</p>
+      <p begin="00:17:54.400" end="00:17:58.770">and more secure we're going to make it more personal and productive and we're going to keep</p>
+      <p begin="00:17:58.770" end="00:18:02.380">you really engages with is more personal computing idea I want to start with</p>
+      <p begin="00:18:02.380" end="00:18:09.280">that safer and more secure all right make some noise if you use windows hello today.</p>
+      <p begin="00:18:09.280" end="00:18:14.110">You remember we launched this man biometric authentication with enterprise grade keeping folks secure the</p>
+      <p begin="00:18:14.110" end="00:18:20.120">most personal things possible your finger your face it's awesome we see folks loving this</p>
+      <p begin="00:18:20.120" end="00:18:24.740">artist coming the apps people are buying things in the windows store using this dropbox integrated</p>
+      <p begin="00:18:24.740" end="00:18:29.390">but today I want to talk about another part its very excited that's us a all right</p>
+      <p begin="00:18:29.390" end="00:18:33.570">there the largest financial service provider to our us military and they're actually going to</p>
+      <p begin="00:18:33.570" end="00:18:38.350">extend hello support for their website using microsoft edge because the new</p>
+      <p begin="00:18:38.350" end="00:18:42.640">final spectrum wthree-c implemented in edge this convenience and security</p>
+      <p begin="00:18:42.640" end="00:18:46.800">of edge can actually light up here so, check it out we're going to say the website now</p>
+      <p begin="00:18:46.800" end="00:18:50.610">this is so easy amount of device right now to roll my fingerprint are going to do</p>
+      <p begin="00:18:50.610" end="00:18:56.710">is touch log on windows hello you go up and, now it's asking me</p>
+      <p begin="00:18:56.710" end="00:19:01.540">to touch my fingerprint and just like this it logs in its that fast it's easy it's</p>
+      <p begin="00:19:01.540" end="00:19:02.370">safe and secure.</p>
+      <p begin="00:19:03.440" end="00:19:06.630">We are pumped about it.</p>
+      <p begin="00:19:06.630" end="00:19:09.590">Now let's talk about more personal computing and get a little bit productive here</p>
+      <p begin="00:19:09.590" end="00:19:14.350">right terry mentioned a new experiences that put ink front and center</p>
+      <p begin="00:19:14.350" end="00:19:19.020">all right we're going to help you with windows ink create ideate and collaborate better</p>
+      <p begin="00:19:19.020" end="00:19:22.960">okay app and why we do this bryan why would you put ink front and center because</p>
+      <p begin="00:19:22.960" end="00:19:29.530">allow you are still use pen and paper make some noise if you still write stuff down all the time on pen and paper?</p>
+      <p begin="00:19:29.530" end="00:19:33.190">Why do we do that we do it credits fast it's easy it's right there it's a media it</p>
+      <p begin="00:19:33.190" end="00:19:37.410">doesn't require setup but then sometimes lose that piece of paper and, you know, you</p>
+      <p begin="00:19:37.410" end="00:19:40.940">our man where was that so our goal of windows ink is really combine</p>
+      <p begin="00:19:40.940" end="00:19:45.940">that the naturalness and the speed of pen and paper the power-pc this four parts this number one we're going to</p>
+      <p begin="00:19:45.940" end="00:19:49.980">put this pen front and center so, you know, what to do with it number two we're going to make sure that we solve</p>
+      <p begin="00:19:49.980" end="00:19:54.920">the task that people are reaching for pen and paper most for a number three I'm going to show you how windows ink is actually</p>
+      <p begin="00:19:54.920" end="00:19:59.830">a deeper platform that enables faster and more fluid ink flow throughout the entire windows</p>
+      <p begin="00:19:59.830" end="00:20:05.000">experience all right so let's start with that first one putting the pen front and center ok so when I got my pen I</p>
+      <p begin="00:20:05.000" end="00:20:10.000">was super excited but I wasn't always sure what to do that are which app to use so we're solving for that</p>
+      <p begin="00:20:10.000" end="00:20:13.880">I'm going to push this pen button check this out this is the ink workspace</p>
+      <p begin="00:20:13.880" end="00:20:18.540">all things ink are here these are the three tasks people do most I'm going to jump in on that in a second but</p>
+      <p begin="00:20:18.540" end="00:20:23.530">look at this my most recently used pen apps I can get right back in and do what I was doing also down here tips and tricks</p>
+      <p begin="00:20:23.530" end="00:20:28.490">users are going to know what to do this pen we're going to walk you through that another thing I want to call out to you folks this right here</p>
+      <p begin="00:20:28.490" end="00:20:32.420">suggested apps this is one place where if I touch this I'm going to go</p>
+      <p begin="00:20:32.420" end="00:20:36.950">to us dedicated section of the store that just is amazing apps support pen our so we're going to</p>
+      <p begin="00:20:36.950" end="00:20:43.520">light up for folks going to know what to do with the pen we put it right front and center what you think about that?</p>
+      <p begin="00:20:43.520" end="00:20:45.930">Under getting started right.</p>
+      <p begin="00:20:45.930" end="00:20:47.780">What about the tasks we do most</p>
+      <p begin="00:20:47.780" end="00:20:53.330">number-one we jot down things to remember make some noise if you use sticky notes in your life?</p>
+      <p begin="00:20:53.330" end="00:20:55.670">I'm not surprised all right up three-m</p>
+      <p begin="00:20:55.670" end="00:20:59.270">sells fifty billion sticky notes a year all right so they on windows san we have</p>
+      <p begin="00:20:59.270" end="00:21:04.190">eight million monthly active users of sticky notes and three million daily active users so of course</p>
+      <p begin="00:21:04.190" end="00:21:08.170">we're going to make this better I think it's my sticky notes right here check this out here I had some stuff</p>
+      <p begin="00:21:08.170" end="00:21:11.455">had to make sure I showed you guys were doing good on that so far but watch this I'm going</p>
+      <p begin="00:21:11.455" end="00:21:15.700">to make a new note here my mom always gets worried when I do demos because me, you know,</p>
+      <p begin="00:21:15.700" end="00:21:19.210">she speaks spanglish she mixes it up were latins earlier bryan I'm worried that demo</p>
+      <p begin="00:21:19.210" end="00:21:23.360">good how you feeling I got always number common mom after this I want to make sure that</p>
+      <p begin="00:21:23.360" end="00:21:27.140">tomorrow call mom but watch what happens when I write</p>
+      <p begin="00:21:27.140" end="00:21:31.990">tomorrow okay look first of all look how easy and smooth this ink is flowing but</p>
+      <p begin="00:21:31.990" end="00:21:37.300">watch what happens next I wrote the word tomorrow because we're combining the our the pen and the pc you see it turn blue</p>
+      <p begin="00:21:37.300" end="00:21:42.280">that's because we're smart enough to know that was handwriting to know that it was a day so if I touch it my homey who rocks</p>
+      <p begin="00:21:42.280" end="00:21:47.180">at reminders cortana is easily able to come up and actually set that reminder for me ok and</p>
+      <p begin="00:21:47.180" end="00:21:51.860">beyond just setting reminders cortana bing is integrate will be able to recognize places up</p>
+      <p begin="00:21:51.860" end="00:22:01.350">europe maps this is going to be very smart these sticky notes are geniuses what you guys think about that.</p>
+      <p begin="00:22:01.350" end="00:22:05.450">Why else do we write things down sometimes when you scratch out idea</p>
+      <p begin="00:22:05.450" end="00:22:09.040">it's is easier to communicate visually how many times</p>
+      <p begin="00:22:09.040" end="00:22:11.680">are moving furniture you rip off a piece of paper you start jotting on</p>
+      <p begin="00:22:11.680" end="00:22:16.800">it you devs I know you run-up to the white board and write a bunch of stuff and then at the end of like all-white let me photograph</p>
+      <p begin="00:22:16.800" end="00:22:21.660">the white board and later try to decipher what those things were that made sense at the time</p>
+      <p begin="00:22:21.660" end="00:22:26.390">ok so we want to make sure you have a way to do that and that's why there's a sketch pad now so check this</p>
+      <p begin="00:22:26.390" end="00:22:31.870">out the sketch pad already wrote some stuff here for you and what you're going to see is I</p>
+      <p begin="00:22:31.870" end="00:22:36.690">wrote of course windows loves ink can I get a all you'll nodded that nice it</p>
+      <p begin="00:22:36.690" end="00:22:41.760">was smoothing buttery so check this out while so we put ink front and center I'm going to hit</p>
+      <p begin="00:22:41.760" end="00:22:46.760">you with some stats here we did a little survey of found out that seventy two percent</p>
+      <p begin="00:22:46.760" end="00:22:51.560">of people are still use pen and paper or various writing instruments a lot</p>
+      <p begin="00:22:51.560" end="00:22:55.420">less seventy two percent the user for actually more</p>
+      <p begin="00:22:55.420" end="00:23:00.160">than one hour per day that's crazy all right now of that seven in will that</p>
+      <p begin="00:23:00.160" end="00:23:04.290">seventy two percent now thirty two percent actually use it for more</p>
+      <p begin="00:23:04.290" end="00:23:09.790">than three hours a day so there's a lot of people using pen all right now check</p>
+      <p begin="00:23:09.790" end="00:23:14.650">how did that it was quick it was easy was immediate I got there I could illustrate an idea you because I want to call out because I</p>
+      <p begin="00:23:14.650" end="00:23:19.510">have the our the pc I can do cool stuff like have a ruler so maybe these lines are not as cools I one</p>
+      <p begin="00:23:19.510" end="00:23:23.860">of them to be outlook easily able to come in and rotate this I can come in and get my</p>
+      <p begin="00:23:23.860" end="00:23:29.820">lines super straight I can come in and do this all ya like it you</p>
+      <p begin="00:23:29.820" end="00:23:34.340">lag it's cool and of course the last thing this is the bottom if I don't do it</p>
+      <p begin="00:23:34.340" end="00:23:38.440">yom member back in grade school the first thing you learn is that whenever you have a heart you got</p>
+      <p begin="00:23:38.440" end="00:23:41.990">put the arrow that do that ok and now because this is</p>
+      <p begin="00:23:41.990" end="00:23:46.060">the pc yes app that person was excited about the heart I wrote that heart for</p>
+      <p begin="00:23:46.060" end="00:23:50.810">might made person so I'm not going to lose this white board because I have the</p>
+      <p begin="00:23:50.810" end="00:23:54.510">power-pc, you know, what to see up to have this for later I'll go ahead and tweeted</p>
+      <p begin="00:23:54.510" end="00:24:02.190">to-you so this way are have it you remember that we love ink what you guys think about that?</p>
+      <p begin="00:24:02.190" end="00:24:07.120">of course we don't want to get in a way so by actually go and lock my pc right now check this out</p>
+      <p begin="00:24:07.120" end="00:24:12.120">of a lot get that entire ink workspace is available above lock I can get right back to what I was doing</p>
+      <p begin="00:24:12.120" end="00:24:16.640">when it's time the rock-and-roll you grab your device to massive button your ready to go man</p>
+      <p begin="00:24:16.640" end="00:24:18.000">okay.</p>
+      <p begin="00:24:18.000" end="00:24:22.500">Now beyond all this cool stuff inking is actually a platform so</p>
+      <p begin="00:24:22.500" end="00:24:27.200">are really showcase now a couple things of how this extending great inking experiences in</p>
+      <p begin="00:24:27.200" end="00:24:32.060">the office of maps app that we have and then also in adobe so check this out of</p>
+      <p begin="00:24:32.060" end="00:24:35.980">the start with maps sometimes it's hard to actually explain something to somebody as far as</p>
+      <p begin="00:24:35.980" end="00:24:40.290">where does a map look at this I want to make cc I'll take my pen and make a little</p>
+      <p begin="00:24:40.290" end="00:24:44.430">dot right here what happens though that dot this is smart ink man it becomes a point of interest</p>
+      <p begin="00:24:44.430" end="00:24:49.500">as a registered point of interest if I want to go over here me somebody over you know, by this by the water</p>
+      <p begin="00:24:49.500" end="00:24:54.760">I make another dot now watch what happens I just draw a line connecting the dots and look what happens this ink is</p>
+      <p begin="00:24:54.760" end="00:24:59.740">smart enough to know those two points to know that distance and actually see what's happening there</p>
+      <p begin="00:24:59.740" end="00:25:05.210">ok and also you'll be seeing the up we can easily get directions but beyond that here's</p>
+      <p begin="00:25:05.210" end="00:25:09.400">mouse a hell if you basin noise if you play with a three-d section of this map before, yeah,</p>
+      <p begin="00:25:09.400" end="00:25:14.210">if you have not you've gotta check this out let's say I want to go for a hike and I found a really cool route is</p>
+      <p begin="00:25:14.210" end="00:25:17.780">to go do this now watch what happens this ink is going to be smart enough again to</p>
+      <p begin="00:25:17.780" end="00:25:22.660">dryer no that that's two-point-one miles watch this I can make a little place and say here's what we're going to</p>
+      <p begin="00:25:22.660" end="00:25:27.340">meats and then up here also maybe we're going to stop and do some lunch</p>
+      <p begin="00:25:27.340" end="00:25:31.870">okay and then right up here maybe I'm going to go and say here's we're going to</p>
+      <p begin="00:25:31.870" end="00:25:35.280">do a picture all right so the I make these custom routes these custom knows their</p>
+      <p begin="00:25:35.280" end="00:25:40.260">available across all my windows devices but watch what happens look at this when I</p>
+      <p begin="00:25:40.260" end="00:25:44.700">turn this the three-d that ink is smart enough to actually stick to that thing it knows</p>
+      <p begin="00:25:44.700" end="00:25:49.660">that a topographical map ballistic into it and watch this when I actually rotate this little billboards that I wrote</p>
+      <p begin="00:25:49.660" end="00:25:53.450">of smart enough to face me the entire time as the our of the pen and the</p>
+      <p begin="00:25:53.450" end="00:26:01.170">pc coming together how you feel about that?</p>
+      <p begin="00:26:01.170" end="00:26:03.930">I'm going to revisit some childhood trauma here my teachers marking red stuff</p>
+      <p begin="00:26:03.930" end="00:26:06.960">a papers consistently but check this out we've all</p>
+      <p begin="00:26:06.960" end="00:26:11.060">done whether helping your children with their homework or if you're a teacher yourself but look,</p>
+      <p begin="00:26:11.060" end="00:26:15.990">how you this is now in word across outward it's gone maybe I don't like this whole paragraph ok</p>
+      <p begin="00:26:15.990" end="00:26:19.890">we've always had inking word but watch how the text is actually reflowing now also if you're like</p>
+      <p begin="00:26:19.890" end="00:26:24.480">me not artistically inclined maybe when you highlight stuff it looks like this that's cool look what happens</p>
+      <p begin="00:26:24.480" end="00:26:29.060">yall app if you're like okay never write it yes you do a whole</p>
+      <p begin="00:26:29.060" end="00:26:33.470">paragraph now also today powerpoint as a great job at aligning things</p>
+      <p begin="00:26:33.470" end="00:26:39.490">naturally on vertical horizontal axes but check this out let me show you what the ruler can do here so,</p>
+      <p begin="00:26:39.490" end="00:26:43.300">two things when I move this really with two fingers I am easy and able to easily</p>
+      <p begin="00:26:43.300" end="00:26:46.190">control rotation what I use one that rotations locked</p>
+      <p begin="00:26:46.190" end="00:26:51.190">so what I can actually do is move this down here and snap these objects alongside this ruler</p>
+      <p begin="00:26:51.190" end="00:26:56.740">all right so this is easily coming together, yeah, can now when I line this up</p>
+      <p begin="00:26:56.740" end="00:27:01.810">check this out it's really easy for me to draw some who little diagonal lines to make</p>
+      <p begin="00:27:01.810" end="00:27:05.920">my slide look awesome that's the our of the pen and the pc coming together all right now</p>
+      <p begin="00:27:05.920" end="00:27:10.890">beyond office beyond maps we know the ink windows ink is a platform for everybody and adobe embracing this of to</p>
+      <p begin="00:27:10.890" end="00:27:14.905">talking do something they made for us check this out what you seeing right now it's going</p>
+      <p begin="00:27:14.905" end="00:27:19.210">to come up so it's very fake but that's a stencil called a french curve is willfully</p>
+      <p begin="00:27:19.210" end="00:27:23.980">fakes adobe does not want their tools to get the artist way all right but watch what happens simultaneous pen and</p>
+      <p begin="00:27:23.980" end="00:27:28.710">touches enabled with the windows ink platform look how that artist is easily able to use touch and</p>
+      <p begin="00:27:28.710" end="00:27:33.690">pen together to be able to actually make these perfect lines on the shoe with that french curve stencil I mean that's awesome</p>
+      <p begin="00:27:33.690" end="00:27:36.890">this is empowering new experiences the tech is not-guilty in the way</p>
+      <p begin="00:27:36.890" end="00:27:41.760">its enabling that is the goal what you're seeing here is an example of the amazing latency</p>
+      <p begin="00:27:41.760" end="00:27:46.660">or lack there of more of the windows ink platform the ink is flowing completely smoothly out of that pen</p>
+      <p begin="00:27:46.660" end="00:27:53.300">I mean you would never know that it's actually a device doing that because that's our goal how you guys feel about that?</p>
+      <p begin="00:27:53.300" end="00:27:57.150">Ladies and gentlemen that is just the beginning there is no way I could so you all this</p>
+      <p begin="00:27:57.150" end="00:28:00.520">onstage there's so much more common as a kind of give you a glimpse</p>
+      <p begin="00:28:00.520" end="00:28:13.990">into what we got going on there's a little sizzle video take a look.</p>
+      <p begin="00:28:47.340" end="00:28:48.820">That awesome moi.</p>
+      <p begin="00:28:52.090" end="00:28:58.420">All those experiences bryan just showed are built on our universal windows.</p>
+      <p begin="00:28:58.420" end="00:29:03.210">We designed this platform for all types of apps from productivity to</p>
+      <p begin="00:29:03.210" end="00:29:04.560">gaming.</p>
+      <p begin="00:29:04.560" end="00:29:09.900">Holographic we designed this platform for all types of devices</p>
+      <p begin="00:29:09.900" end="00:29:14.480">phones tablets the pcs iot seeds large screens like surface</p>
+      <p begin="00:29:14.480" end="00:29:17.160">hub and hololens or xbox and more.</p>
+      <p begin="00:29:18.300" end="00:29:20.740">And, we designed this platform for all of</p>
+      <p begin="00:29:20.740" end="00:29:25.390">our customers for all the needs of our commercial customers and for those of our developer</p>
+      <p begin="00:29:25.390" end="00:29:31.470">partners targeting consumers and this is an open platform.</p>
+      <p begin="00:29:31.470" end="00:29:34.290">For over thirty years windows as welcome</p>
+      <p begin="00:29:34.290" end="00:29:39.040">and open ecosystem of hardware partners software partners developer partners wherever they are</p>
+      <p begin="00:29:39.040" end="00:29:45.080">round-the-world and nothing changes with the universal windows platform the</p>
+      <p begin="00:29:45.080" end="00:29:49.950">universal windows platform brings together all of that windows history as well as</p>
+      <p begin="00:29:49.950" end="00:29:54.710">everything that today's users expect from a modern app platform</p>
+      <p begin="00:29:54.710" end="00:30:04.130">microsoft's seamless and robust install uninstall and seamless updates.</p>
+      <p begin="00:30:04.130" end="00:30:06.460">And, our two hundred seventy million users of windows</p>
+      <p begin="00:30:06.460" end="00:30:10.000">ten they visited the store over five billion times.</p>
+      <p begin="00:30:11.190" end="00:30:14.530">And, our universal windows platform developers have responded</p>
+      <p begin="00:30:14.530" end="00:30:19.300">the some incredible new apps a number of new developers is growing month over</p>
+      <p begin="00:30:19.300" end="00:30:24.160">month with the sixty percent growth in just the last few months alone.</p>
+      <p begin="00:30:24.160" end="00:30:27.960">These developers are bringing some incredible new apps to the store some</p>
+      <p begin="00:30:27.960" end="00:30:32.970">coming very soon so partners like twitter bank of america starbucks</p>
+      <p begin="00:30:32.970" end="00:30:37.840">hoover disney's squaring x yahoo worldwide wrestling and more.</p>
+      <p begin="00:30:37.840" end="00:30:39.370">And, facebook we</p>
+      <p begin="00:30:39.370" end="00:30:43.470">bringing a new universal app for facebook</p>
+      <p begin="00:30:43.470" end="00:30:49.020">instagram and messenger to the store very soon.</p>
+      <p begin="00:30:49.020" end="00:30:52.080">How very excited to share</p>
+      <p begin="00:30:52.080" end="00:30:56.950">that facebook will also be bringing their facebook audience network an app</p>
+      <p begin="00:30:56.950" end="00:31:01.580">install sdk to all of our universal windows platform developers</p>
+      <p begin="00:31:01.580" end="00:31:06.180">zthree million facebook advertisers can reach their customers</p>
+      <p begin="00:31:06.180" end="00:31:12.360">through your apps?</p>
+      <p begin="00:31:12.360" end="00:31:14.280">Now this is not just.</p>
+      <p begin="00:31:14.280" end="00:31:17.860">Momentum in the consumer space processing great adoption from</p>
+      <p begin="00:31:17.860" end="00:31:22.760">our commercial customers thousands of organizations are now piloting the use of the windows</p>
+      <p begin="00:31:22.760" end="00:31:25.050">store for business within their organization</p>
+      <p begin="00:31:26.450" end="00:31:36.700">in building incredible apps to take advantage of let's take a look at one partner was really leading away.</p>
+      <p begin="00:31:36.700" end="00:31:39.860">Boeing is the world's largest research company so,</p>
+      <p begin="00:31:39.860" end="00:31:42.880">majority the world are planks our commercial airline flight today or</p>
+      <p begin="00:31:42.880" end="00:31:47.710">boeing deformity triple seven came out to we thought that was a pretty data richer</p>
+      <p begin="00:31:47.710" end="00:31:52.100">blood the seventy-seven citibank behind machine produces thirty times as much data is</p>
+      <p begin="00:31:52.100" end="00:31:55.860">the troublesome and every succeeding generation will be even more.</p>
+      <p begin="00:31:55.860" end="00:31:59.660">As part of what boeing digital aviation we developed software</p>
+      <p begin="00:31:59.660" end="00:32:05.140">to provide operational efficiency for airline customers the electronic</p>
+      <p begin="00:32:05.140" end="00:32:09.800">flight bagged is essentially the workflow for pilots from</p>
+      <p begin="00:32:09.800" end="00:32:14.720">pre flight to post fly up until about three or four years ago pilots with terry thirty</p>
+      <p begin="00:32:14.720" end="00:32:19.540">forty pounds worth of paper or navigation charge there and router like</p>
+      <p begin="00:32:19.540" end="00:32:24.840">of developers shows windows ten because the flexibility of the platform</p>
+      <p begin="00:32:24.840" end="00:32:27.630">the release of transitioning onto it</p>
+      <p begin="00:32:27.630" end="00:32:33.760">and some opportunity to present content that we've not had.</p>
+      <p begin="00:32:33.760" end="00:32:38.200">Our future business is going to be more and more the accumulation of different</p>
+      <p begin="00:32:38.200" end="00:32:42.350">applications sober universal windows platform will help us to copilot</p>
+      <p begin="00:32:42.350" end="00:32:47.390">with real-time decision-making to our business is all about tarnishing that data coming off the airplane</p>
+      <p begin="00:32:55.520" end="00:32:57.460">So, you can do things with the universal windows</p>
+      <p begin="00:32:57.460" end="00:33:01.030">platform you just cannot do on any other platform.</p>
+      <p begin="00:33:02.100" end="00:33:06.940">And, this is a developer conference so I think it's about time we looked at some code.</p>
+      <p begin="00:33:06.940" end="00:33:14.820">Please welcome kevin gallo.</p>
+      <p begin="00:33:14.820" end="00:33:18.100">Good morning I'm so excited to be here.</p>
+      <p begin="00:33:18.100" end="00:33:21.750">We know that every innovation and step forward with</p>
+      <p begin="00:33:21.750" end="00:33:26.590">windows is only as powerful as the ecosystem that rallies</p>
+      <p begin="00:33:26.590" end="00:33:27.960">around.</p>
+      <p begin="00:33:27.960" end="00:33:30.390">That means not just building investments in</p>
+      <p begin="00:33:30.390" end="00:33:35.280">windows for customers but more importantly investing in windows</p>
+      <p begin="00:33:35.280" end="00:33:40.310">for you our developers and not just building windows apps either</p>
+      <p begin="00:33:40.310" end="00:33:44.120">but whether you're building your cloud services websites or even</p>
+      <p begin="00:33:44.120" end="00:33:48.790">apps rather platforms we want windows to be the place where you can be</p>
+      <p begin="00:33:48.790" end="00:33:54.720">the most productive and successful we want windows to be home.</p>
+      <p begin="00:33:54.720" end="00:33:59.280">For developers.</p>
+      <p begin="00:33:59.280" end="00:34:02.670">Let's start off with some of the newest innovations coming</p>
+      <p begin="00:34:02.670" end="00:34:06.300">to universal windows platform and how're enabling developers to</p>
+      <p begin="00:34:06.300" end="00:34:13.070">push the envelope with natural input and intuitive design.</p>
+      <p begin="00:34:13.070" end="00:34:17.610">So, here I have an application adult launch it here.</p>
+      <p begin="00:34:17.610" end="00:34:20.050">Now one great thing about native applications</p>
+      <p begin="00:34:20.050" end="00:34:24.740">is the ability to really harness the our of the gpu and build stunning and</p>
+      <p begin="00:34:24.740" end="00:34:28.290">one-point-eight differentiated user experiences for your apps.</p>
+      <p begin="00:34:28.290" end="00:34:32.110">We've added hardware-accelerated sixty frame per second</p>
+      <p begin="00:34:32.110" end="00:34:37.010">animation effects these effects bring richer and more immersive designs</p>
+      <p begin="00:34:37.010" end="00:34:39.350">that create a sense of depth layering</p>
+      <p begin="00:34:39.350" end="00:34:44.320">and fluidity which help make your apps more delightful and intuitive to use to</p>
+      <p begin="00:34:44.320" end="00:34:49.929">my app I've infinite just a few of these and I want to show you the first one here the blur effect as I</p>
+      <p begin="00:34:49.929" end="00:34:54.849">move my fingers I get this blur that is synchronized to my fingers in perfect harmony</p>
+      <p begin="00:34:54.849" end="00:34:59.599">here absolutely no glitches and just looks stunning its layered it's all in real time is</p>
+      <p begin="00:34:59.599" end="00:35:04.699">nothing faked up we also have the ability to do mouse-based effects here</p>
+      <p begin="00:35:04.699" end="00:35:09.669">is any kind of enemy effect and layer as I move my mouse I get these bars in this chart you can see</p>
+      <p begin="00:35:09.669" end="00:35:13.119">that as I over one I get this layering to get a great feel for</p>
+      <p begin="00:35:13.119" end="00:35:18.249">how, you know, the actual bar is there in the actual graphics here so when I showed</p>
+      <p begin="00:35:18.249" end="00:35:23.029">this summer designer can tell you how excited they were with these new gpu</p>
+      <p begin="00:35:23.029" end="00:35:26.799">that gpu effects and what they are able to go do it their designs now on</p>
+      <p begin="00:35:26.799" end="00:35:31.509">to move on to kind of my favorite which is windows ink and how we</p>
+      <p begin="00:35:31.509" end="00:35:36.099">want all deaths to be able to quickly and easily integrate ink</p>
+      <p begin="00:35:36.099" end="00:35:41.099">into their experiences and make the pen come alive for end-users so I'm</p>
+      <p begin="00:35:41.099" end="00:35:43.289">going show you is typical here at a conference the</p>
+      <p begin="00:35:43.289" end="00:35:50.540">hello world for windows ink going to start with the code?</p>
+      <p begin="00:35:50.540" end="00:35:55.370">I have my xaml so I built in xaml and I have two controls the first one here is</p>
+      <p begin="00:35:55.370" end="00:35:59.190">an canvas control we introduced this last year this is where I get</p>
+      <p begin="00:35:59.190" end="00:36:02.160">all my strokes and drawing all that capabilities all built into</p>
+      <p begin="00:36:02.160" end="00:36:06.770">the single control interesting new control its a stock control now built into the</p>
+      <p begin="00:36:06.770" end="00:36:11.970">sdk this is the ink toolbar you also bryan use this has the pen</p>
+      <p begin="00:36:11.970" end="00:36:16.940">the tips eraser and that ruler that we showed you and all</p>
+      <p begin="00:36:16.940" end="00:36:21.560">had to do was do a binding statement here from the actual toolbar to the canvas so</p>
+      <p begin="00:36:21.560" end="00:36:26.040">knows which canvas is acting on two lines of xaml that's all you have</p>
+      <p begin="00:36:26.040" end="00:36:29.580">to do me show you what I get for those two lines just, you know,</p>
+      <p begin="00:36:29.580" end="00:36:34.190">it's real so here I can just go start drawing right here on top of this chart it</p>
+      <p begin="00:36:34.190" end="00:36:38.960">can highlight something here and pointed out and I can also just pop up my ruler and</p>
+      <p begin="00:36:38.960" end="00:36:43.160">here can move the ruler and you're kind maybe trying to find have rhythm as good</p>
+      <p begin="00:36:43.160" end="00:36:47.530">bryan at this and segment address some lines here between it you see all of</p>
+      <p begin="00:36:47.530" end="00:36:52.900">that with just those two lines of just those two lines of xaml.</p>
+      <p begin="00:36:52.900" end="00:36:56.650">It's never been easier haired rich inking features to your apps</p>
+      <p begin="00:36:56.650" end="00:37:00.970">but of course we have a host of additional ink apis so you can</p>
+      <p begin="00:37:00.970" end="00:37:05.090">build some of the advanced experiences that bryan showed you so</p>
+      <p begin="00:37:05.090" end="00:37:08.060">this is just a few of the many features coming to the universal</p>
+      <p begin="00:37:08.060" end="00:37:12.630">platform this platform in total there over one thousand new apis</p>
+      <p begin="00:37:12.630" end="00:37:17.010">and features by now that the end of the day things only become real</p>
+      <p begin="00:37:17.010" end="00:37:22.470">for devs when you get your hands-on so I m excited to announce that today</p>
+      <p begin="00:37:22.470" end="00:37:26.580">we are releasing visual studio update to end.</p>
+      <p begin="00:37:26.580" end="00:37:31.070">A preview of the anniversary sdk.</p>
+      <p begin="00:37:32.860" end="00:37:36.430">Give them a spin and let us know what you think.</p>
+      <p begin="00:37:36.430" end="00:37:40.490">The next I want to move in talk about web development last year</p>
+      <p begin="00:37:40.490" end="00:37:45.050">we introduced hosted web apps this allows developers to easily bring</p>
+      <p begin="00:37:45.050" end="00:37:49.780">their web experiences to the windows store they can leverage your existing web investments</p>
+      <p begin="00:37:49.780" end="00:37:53.680">and at the same time get full access to native</p>
+      <p begin="00:37:53.680" end="00:37:59.180">capabilities like cortana bluetooth ink and more this is resonating with</p>
+      <p begin="00:37:59.180" end="00:38:04.120">our web community we've seen lots of highly rated web apps submitted to the windows store</p>
+      <p begin="00:38:04.120" end="00:38:08.770">including american express yahoo mail zulily and more.</p>
+      <p begin="00:38:08.770" end="00:38:09.980">However,</p>
+      <p begin="00:38:09.980" end="00:38:14.390">when we talk to develop web developers they still struggled with using</p>
+      <p begin="00:38:14.390" end="00:38:19.350">windows as their primary dev box as many of them have workflows which</p>
+      <p begin="00:38:19.350" end="00:38:24.810">rely land open source command line tools scripts and frameworks we're going to fix</p>
+      <p begin="00:38:24.810" end="00:38:28.230">set so windows can be your home</p>
+      <p begin="00:38:28.230" end="00:38:33.410">so today I m so excited to announce the bash shell?</p>
+      <p begin="00:38:33.410" end="00:38:35.930">coming to windows moi?</p>
+      <p begin="00:38:38.270" end="00:38:41.480">Real bash is coming to windows this is not</p>
+      <p begin="00:38:41.480" end="00:38:46.080">a vm this is not cross-compiled tools is native ubuntu</p>
+      <p begin="00:38:46.080" end="00:38:51.610">linux binaries running on windows to the magic of a new windows subsystem we</p>
+      <p begin="00:38:51.610" end="00:38:55.090">part with canonical to deliver this great consul experience which</p>
+      <p begin="00:38:55.090" end="00:38:59.340">you'll be able to download directly from the windows store inside a bash of</p>
+      <p begin="00:38:59.340" end="00:39:03.190">access the native file system vt one hundred support sh</p>
+      <p begin="00:39:03.190" end="00:39:10.030">and all of your favorite command line tools let's dive into tech can take a look.</p>
+      <p begin="00:39:10.030" end="00:39:13.630">So, here I have a website on ramming running the edge browser</p>
+      <p begin="00:39:13.630" end="00:39:18.370">is a ruby website that we built it's hosting a azure vienna linux vm in</p>
+      <p begin="00:39:18.370" end="00:39:22.710">azure and I can I also built a hosted web app with it so I</p>
+      <p begin="00:39:22.710" end="00:39:27.150">use launched app all had to do was take the earl create a name for it and</p>
+      <p begin="00:39:27.150" end="00:39:31.300">submit to windows store any produced an app ex me it downloads when the user downloads</p>
+      <p begin="00:39:31.300" end="00:39:36.810">the here so I haven't had anything extra to yet but I want to making this thing come alive and</p>
+      <p begin="00:39:36.810" end="00:39:41.740">do better some ahead of the ability to take is a banking app sites sci-tech the ability to use</p>
+      <p begin="00:39:41.740" end="00:39:47.230">the native camera and really get a great camera experience on the device like expect so I'm a</p>
+      <p begin="00:39:47.230" end="00:39:48.210">hop over here?</p>
+      <p begin="00:39:49.350" end="00:39:50.900">To bash.</p>
+      <p begin="00:39:50.900" end="00:39:56.110">So, here you see I do ls I can see my local system I'm going to move over</p>
+      <p begin="00:39:57.840" end="00:40:01.700">My c drive wholeness auto completion here.</p>
+      <p begin="00:40:01.700" end="00:40:03.510">Than I used first</p>
+      <p begin="00:40:03.510" end="00:40:08.450">former go modify my javascript just two parts my javascript comes down that lights and use</p>
+      <p begin="00:40:08.450" end="00:40:16.620">the windows functionality and then I need to change my ruby code on the back-end.</p>
+      <p begin="00:40:16.620" end="00:40:21.430">Of course my favorite enter is emax so.</p>
+      <p begin="00:40:21.430" end="00:40:25.280">Going to use emax but you can use all any of your favorites they're</p>
+      <p begin="00:40:25.280" end="00:40:30.570">all their survey can choose the one that they enjoy the most.</p>
+      <p begin="00:40:30.570" end="00:40:35.420">You see here my javascript that I do a idea of check here first this is how I make sure I can</p>
+      <p begin="00:40:35.420" end="00:40:40.240">share my code if I'm running inside of the application I just check see whether the windows is the</p>
+      <p begin="00:40:40.240" end="00:40:44.630">definitions there if it is and I have access to all the windows apis if not that I'm being hosted in the</p>
+      <p begin="00:40:44.630" end="00:40:47.610">browser add-on right of this code and you can see here I'm just coined</p>
+      <p begin="00:40:47.610" end="00:40:51.790">the standard rt apis that I get access to and I get</p>
+      <p begin="00:40:51.790" end="00:40:55.980">the native experience because they are the native app apis that</p>
+      <p begin="00:40:55.980" end="00:41:02.060">I'm actually calling someone the save that now I'm going to sh in to</p>
+      <p begin="00:41:02.060" end="00:41:05.490">my linux via and azure there.</p>
+      <p begin="00:41:05.490" end="00:41:08.420">To try to figure my password.</p>
+      <p begin="00:41:08.420" end="00:41:10.740">So, here.</p>
+      <p begin="00:41:10.740" end="00:41:17.760">What I'll do it again use emax modify this file?</p>
+      <p begin="00:41:17.760" end="00:41:19.510">So, you know, like on all these</p>
+      <p begin="00:41:19.510" end="00:41:24.440">demos I'm scan comment some code is just takes too long to actually go</p>
+      <p begin="00:41:24.440" end="00:41:29.350">modify it awesome uncommon that code in ruby it saved all I need to do is restart that</p>
+      <p begin="00:41:29.350" end="00:41:32.070">application so I get the latest version.</p>
+      <p begin="00:41:33.230" end="00:41:36.630">Solves pop over here launch it you might notice here it edit</p>
+      <p begin="00:41:36.630" end="00:41:41.400">a new menu item at my ui did so I can say scan check here</p>
+      <p begin="00:41:41.400" end="00:41:46.140">negatives native experience I got this check here from a giorgio for</p>
+      <p begin="00:41:46.140" end="00:41:51.220">a thousand dollars but, I'm really not can actually take a picture because last time it bounced</p>
+      <p begin="00:41:51.220" end="00:41:55.530">so obvious can exit out here and be done so you know,</p>
+      <p begin="00:41:55.530" end="00:41:59.080">with bash coming to windows bringing the</p>
+      <p begin="00:41:59.080" end="00:42:03.390">our of open source command line tools to windows.</p>
+      <p begin="00:42:03.390" end="00:42:04.810">What do you think?</p>
+      <p begin="00:42:04.810" end="00:42:06.050">For your samoa.</p>
+      <p begin="00:42:07.820" end="00:42:09.560">Website.</p>
+      <p begin="00:42:09.560" end="00:42:13.150">So, now when to ask how many people here have built</p>
+      <p begin="00:42:13.150" end="00:42:18.870">either a win thirty-two app or a dot net application.</p>
+      <p begin="00:42:18.870" end="00:42:21.670">For rights fake you for being a part of</p>
+      <p begin="00:42:21.670" end="00:42:26.380">our windows family in so today I m excited to announce that word's</p>
+      <p begin="00:42:26.380" end="00:42:31.220">now adding the desktop app converter four wintry to</p>
+      <p begin="00:42:31.220" end="00:42:35.030">in dot net action games with this converter does it takes</p>
+      <p begin="00:42:35.030" end="00:42:39.030">an existing desktop app and converted into a centennial what</p>
+      <p begin="00:42:39.030" end="00:42:43.370">we now call a modern desktop app developers can now take advantage</p>
+      <p begin="00:42:43.370" end="00:42:48.330">of the modern apps and games and submit them to the windows store.</p>
+      <p begin="00:42:48.330" end="00:42:51.600">With this conversion code continues to run with</p>
+      <p begin="00:42:51.600" end="00:42:56.420">very minimal changes in addition modern desktop apps</p>
+      <p begin="00:42:56.420" end="00:43:00.920">also have access to all universal apis when</p>
+      <p begin="00:43:00.920" end="00:43:03.890">running on windows ten let's see this samoa.</p>
+      <p begin="00:43:10.190" end="00:43:14.660">Here I am microsoft I m run the desktop app converter that takes</p>
+      <p begin="00:43:14.660" end="00:43:18.770">the existing installer in this case it's an msi but it can be a set of that</p>
+      <p begin="00:43:18.770" end="00:43:23.300">x you any installer out there and it's converting working with sage who</p>
+      <p begin="00:43:23.300" end="00:43:27.040">is initially there in accounting software convert their sage</p>
+      <p begin="00:43:27.040" end="00:43:32.140">two hundred application into a modern desktop app convertible produced</p>
+      <p begin="00:43:32.140" end="00:43:36.940">an app ex package that sage can take in submit to the windows store</p>
+      <p begin="00:43:36.940" end="00:43:41.680">just like any other universal application so what I'll do here is the apathetic</p>
+      <p begin="00:43:41.680" end="00:43:46.140">produce here's double click on and now we've added support for double click on top of</p>
+      <p begin="00:43:46.140" end="00:43:51.520">epics is to make it easy to install and debug locally guesstimate little delighter right there fight</p>
+      <p begin="00:43:51.520" end="00:43:56.620">select get live tiles and full integration of actually already installed from the store so you can see here in the</p>
+      <p begin="00:43:56.620" end="00:44:01.350">start menu my when thirty-two applicator stages wintry to application is now have</p>
+      <p begin="00:44:01.350" end="00:44:05.830">access to live tiles and show some the sell figures I can click it here and</p>
+      <p begin="00:44:05.830" end="00:44:09.910">launches the application minimize that you'll see it also able to</p>
+      <p begin="00:44:09.910" end="00:44:14.380">pasta toast bangor dismiss me show you this in visual studio what I had to go</p>
+      <p begin="00:44:14.380" end="00:44:18.040">do to do this so there is a single solution here I have</p>
+      <p begin="00:44:18.040" end="00:44:22.900">two projects the first is the win seven codess is just your standard wintry to code</p>
+      <p begin="00:44:22.900" end="00:44:28.140">here with no modifications so why modified it didn't have to it would</p>
+      <p begin="00:44:28.140" end="00:44:33.130">have just worked then I added this extra project which is the universal code that although</p>
+      <p begin="00:44:33.130" end="00:44:36.740">the live tiles so what happens is when sage loads</p>
+      <p begin="00:44:36.740" end="00:44:41.610">able to check this running on windows ten will loaded the ll and use the extra functionality</p>
+      <p begin="00:44:41.610" end="00:44:46.510">otherwise continues like it was and over here you see that boilerplate standard,</p>
+      <p begin="00:44:46.510" end="00:44:52.610">you know, a notification and live tile code that is just straight out universal windows code.</p>
+      <p begin="00:44:52.610" end="00:44:55.010">So, I'm also happy to share that sage</p>
+      <p begin="00:44:55.010" end="00:44:59.210">two hundred will be coming to the windows store this summer and</p>
+      <p begin="00:45:00.570" end="00:45:05.550">faucet for those of you ensues install shield or the which tool set</p>
+      <p begin="00:45:05.550" end="00:45:10.340">will work with both flexera and firegiant to produce modern app packages directly so</p>
+      <p begin="00:45:10.340" end="00:45:13.300">you don't even have to use the converter presents update you</p>
+      <p begin="00:45:13.300" end="00:45:17.970">said your project and they get both an app ex as well as your msi we're making</p>
+      <p begin="00:45:17.970" end="00:45:22.960">it easy for developers to bring more than sixteen million</p>
+      <p begin="00:45:22.960" end="00:45:27.940">when thirty-two indicted apps to the windows store finally.</p>
+      <p begin="00:45:28.960" end="00:45:33.900">We want windows to be your home not just for developing apps for windows but for developing</p>
+      <p begin="00:45:33.900" end="00:45:38.710">apps for all devices when I talk to developers hidden many of</p>
+      <p begin="00:45:38.710" end="00:45:42.410">you using architecture we have a shared common core</p>
+      <p begin="00:45:42.410" end="00:45:46.720">that you build native ui for each of the you urge the platforms that your targeting</p>
+      <p begin="00:45:46.720" end="00:45:51.480">in finally light up native capabilities with platform-specific apis for things</p>
+      <p begin="00:45:51.480" end="00:45:57.130">such as the camera notifications and commerce csharp developers they</p>
+      <p begin="00:45:57.130" end="00:46:01.980">still you can start with you wb to grow target the grow ever-growing base of windows</p>
+      <p begin="00:46:01.980" end="00:46:06.510">ten devices in now woods xamarin you can target ios</p>
+      <p begin="00:46:06.510" end="00:46:13.880">and android as well let me hop over visual studio and show you.</p>
+      <p begin="00:46:13.880" end="00:46:18.290">So, here we're looking at the code for the real microsoft health app which is</p>
+      <p begin="00:46:18.290" end="00:46:24.990">a companion app to the microsoft band you guys got bands out there absolutely awesome.</p>
+      <p begin="00:46:24.990" end="00:46:27.730">So, microsoft band users have windows android and ios</p>
+      <p begin="00:46:27.730" end="00:46:31.730">devices so the health team needs to have an app for all of them.</p>
+      <p begin="00:46:31.730" end="00:46:35.570">Udp app that they started with uses a xaml ui on top of</p>
+      <p begin="00:46:35.570" end="00:46:39.130">a csharp library containing the core business logic and</p>
+      <p begin="00:46:39.130" end="00:46:43.450">the service connectivity because the health app was designed this way it was easy</p>
+      <p begin="00:46:43.450" end="00:46:48.200">to use xamarin to take it to ios and android let me show you</p>
+      <p begin="00:46:48.200" end="00:46:53.180">here the project so at the bottom here is one of the price I have this</p>
+      <p begin="00:46:53.180" end="00:46:58.280">is the bulk of the code is all the shared code among all the different platforms</p>
+      <p begin="00:46:58.280" end="00:47:03.280">he's a huge amount of code you really is like I said this is the actual health application format</p>
+      <p begin="00:47:03.280" end="00:47:09.180">shown code and left side admonish here that a lot of you want to show sometimes a real code?</p>
+      <p begin="00:47:09.180" end="00:47:13.680">Notes pretty easy one and, now have a word a projects reach the</p>
+      <p begin="00:47:13.680" end="00:47:18.480">heads one for universal apps they started with anyone for ios and one for android</p>
+      <p begin="00:47:18.480" end="00:47:22.330">the nice thing is with xamarin you can not only debug</p>
+      <p begin="00:47:22.330" end="00:47:26.560">emulator for windows we now also have the ability to do the inner-loop to cycle</p>
+      <p begin="00:47:26.560" end="00:47:31.370">development for their android head have the android emulator here that you can go run and</p>
+      <p begin="00:47:31.370" end="00:47:36.850">the windows and later as well in addition for ios developers we've also</p>
+      <p begin="00:47:36.850" end="00:47:40.050">had the ability to have a remote designer so you stay in visual studio</p>
+      <p begin="00:47:40.050" end="00:47:44.190">your entire time who loves staying in visual studio the entire</p>
+      <p begin="00:47:44.190" end="00:47:48.200">time I here is going to remote designer the</p>
+      <p begin="00:47:48.200" end="00:47:52.460">tweet their ui you tweak if ios as well.</p>
+      <p begin="00:47:52.460" end="00:47:56.750">windows can now be your home for developing apps for all devices</p>
+      <p begin="00:47:58.100" end="00:48:02.910">now before I go I want to personally thank you our developers</p>
+      <p begin="00:48:02.910" end="00:48:06.560">have taken the time to give us feedback into part with us</p>
+      <p begin="00:48:06.560" end="00:48:08.800">building great platform together</p>
+      <p begin="00:48:08.800" end="00:48:13.610">keep the feedback coming we cannot build the platform without,</p>
+      <p begin="00:48:13.610" end="00:48:22.940">you know, back to terry.</p>
+      <p begin="00:48:22.940" end="00:48:26.690">With this anniversary update we really been focused on making windows</p>
+      <p begin="00:48:26.690" end="00:48:30.130">ten-best home for all of your.</p>
+      <p begin="00:48:30.130" end="00:48:31.770">Enabling you to choose whatever shell you</p>
+      <p begin="00:48:31.770" end="00:48:37.010">want when powershell dos.</p>
+      <p begin="00:48:37.010" end="00:48:39.310">Or more coming soon.</p>
+      <p begin="00:48:39.310" end="00:48:41.900">Enabling you to embrace new device capabilities like</p>
+      <p begin="00:48:41.900" end="00:48:47.480">windows allow windows ink enabling you to take your existing dot</p>
+      <p begin="00:48:47.480" end="00:48:50.760">net winter into applications and distribute them</p>
+      <p begin="00:48:50.760" end="00:48:53.880">and through the windows store and enhance them with</p>
+      <p begin="00:48:53.880" end="00:48:57.630">all the new device capabilities we've been talking about.</p>
+      <p begin="00:48:57.630" end="00:48:58.350">Enabling you to</p>
+      <p begin="00:48:58.350" end="00:49:04.490">build new dot net code bases and take them cross platform and of course if</p>
+      <p begin="00:49:04.490" end="00:49:08.770">you're working for the highest performance precision laptop and</p>
+      <p begin="00:49:08.770" end="00:49:14.070">tablet to do all of your development on we have surface</p>
+      <p begin="00:49:14.070" end="00:49:24.080">There really has been no better time to be a windows developer.</p>
+      <p begin="00:49:24.080" end="00:49:27.960">Now with this anniversary update we have experiences that go beyond the</p>
+      <p begin="00:49:27.960" end="00:49:34.050">pc let's take gaming you want to go beyond your mobile devices into</p>
+      <p begin="00:49:34.050" end="00:49:37.720">your living room you taking advantage of the game consul you have</p>
+      <p begin="00:49:37.720" end="00:49:42.410">their your xbox one or hololens is the</p>
+      <p begin="00:49:42.410" end="00:49:47.950">world's first fully untethered holographic computer.</p>
+      <p begin="00:49:47.950" end="00:49:50.040">In the last few years.</p>
+      <p begin="00:49:50.040" end="00:49:52.030">Hololens has gone from a dream.</p>
+      <p begin="00:49:53.200" end="00:49:53.950">To a prototype.</p>
+      <p begin="00:49:55.420" end="00:50:04.710">now today we get to see what real customers are doing with it every day.</p>
+      <p begin="00:50:04.710" end="00:50:07.530">Please welcome phil spencer discuss gaming and</p>
+      <p begin="00:50:07.530" end="00:50:21.050">then alex kipman will join us to discuss holographic computing.</p>
+      <p begin="00:50:21.050" end="00:50:21.460">What's more</p>
+      <p begin="00:50:21.460" end="00:50:26.400">sports sixty-eight text is the first step in the forts a franchise moving to windows ten bits of</p>
+      <p begin="00:50:26.400" end="00:50:32.860">focused experience that brings the best of what motorsport has to offer to nuclear on the pc.</p>
+      <p begin="00:50:32.860" end="00:50:34.780">Moi text is actually</p>
+      <p begin="00:50:34.780" end="00:50:40.470">approve point of what first party can do with european directx twelve the</p>
+      <p begin="00:50:40.470" end="00:50:44.380">universal windows platform were able to drive it four-k and sixty frames a</p>
+      <p begin="00:50:44.380" end="00:50:49.210">second the highest fidelity we've ever deliver the universal aspect that's a real</p>
+      <p begin="00:50:49.210" end="00:50:53.900">true promise for us is the ability to radar code one store still going to</p>
+      <p begin="00:50:53.900" end="00:50:58.170">taylor that experiences that it's the best thing you can get on xbox the best thing you can get on</p>
+      <p begin="00:50:58.170" end="00:51:02.670">pcs but what it means it's reduce the development time for us and I really</p>
+      <p begin="00:51:02.670" end="00:51:06.070">surfaces not only in the code that we ripe but also the tool</p>
+      <p begin="00:51:06.070" end="00:51:11.630">said that we get to use and that's the thing that's going to grow the most over time moi</p>
+      <p begin="00:51:11.630" end="00:51:16.080">was a first-party is to make sure that platform that everyone's running on is the best one that they can</p>
+      <p begin="00:51:16.080" end="00:51:20.690">offer games on moving forward all of our date you're going to be shipping on windows</p>
+      <p begin="00:51:20.690" end="00:51:22.380">tend xbox.</p>
+      <p begin="00:51:22.380" end="00:51:25.540">Universal windows platform is great for the game</p>
+      <p begin="00:51:25.540" end="00:51:30.410">developers and gamers alike it's going to become even more powerful as a way of delivering amazing</p>
+      <p begin="00:51:30.410" end="00:51:44.590">experience across all of devices and windows ecosystem.</p>
+      <p begin="00:51:51.920" end="00:51:56.370">Hello, everyone good-morning I'm phil spencer I'm</p>
+      <p begin="00:51:56.370" end="00:52:00.290">proud to represent to be here my very first build conference to</p>
+      <p begin="00:52:00.290" end="00:52:06.360">represent the talented and creative teams responsible for gaming at microsoft.</p>
+      <p begin="00:52:06.360" end="00:52:09.710">You've heard this morning about how windows is the best platform</p>
+      <p begin="00:52:09.710" end="00:52:14.580">for developers today we'll spend time talking about how windows is the</p>
+      <p begin="00:52:14.580" end="00:52:18.740">bled best platform for the vast community of game developers</p>
+      <p begin="00:52:18.740" end="00:52:23.710">the universal windows platform provides developers the ability to</p>
+      <p begin="00:52:23.710" end="00:52:29.590">righty game and deployed across all windows ten devices from desktop</p>
+      <p begin="00:52:29.590" end="00:52:34.050">tablets and phones and xbox one this morning.</p>
+      <p begin="00:52:35.060" end="00:52:39.070">Thank you this morning we will demonstrate how windows ten provides</p>
+      <p begin="00:52:39.070" end="00:52:42.920">the most productive and efficient platform for developers</p>
+      <p begin="00:52:42.920" end="00:52:47.730">of all sizes because windows is and will continue to be</p>
+      <p begin="00:52:47.730" end="00:52:52.370">an open development ecosystem where anyone can build</p>
+      <p begin="00:52:52.370" end="00:53:00.510">deploy sell and service their games in applications?</p>
+      <p begin="00:53:00.510" end="00:53:04.810">And, the opening video we got to hear directly from one of our first-party studios</p>
+      <p begin="00:53:04.810" end="00:53:09.360">turn ten on the impact of the universal windows platform hat on bringing</p>
+      <p begin="00:53:09.360" end="00:53:13.590">forza motorsport six apex to windows ten and how uw</p>
+      <p begin="00:53:13.590" end="00:53:18.000">p can benefit both developers and gamers alike?</p>
+      <p begin="00:53:18.000" end="00:53:21.330">Through the universal windows platform our plan</p>
+      <p begin="00:53:21.330" end="00:53:23.660">its delivered games that will run better on</p>
+      <p begin="00:53:23.660" end="00:53:29.150">windows with more predictable performance more robust install uninstall</p>
+      <p begin="00:53:29.150" end="00:53:33.580">and servicing capability through a modern application platform.</p>
+      <p begin="00:53:33.580" end="00:53:38.030">And, greater safety for users through a protected runtime environment</p>
+      <p begin="00:53:38.030" end="00:53:42.270">and distribution of modern desktop applications on any store</p>
+      <p begin="00:53:42.270" end="00:53:48.220">including the windows store and via any development that deployment mechanism.</p>
+      <p begin="00:53:48.220" end="00:53:51.720">We recently launched three blockbuster franchises in</p>
+      <p begin="00:53:51.720" end="00:53:56.650">the windows store rise of the tomb raider gears of war ultimate edition</p>
+      <p begin="00:53:56.650" end="00:54:00.840">and just yesterday killer instinct season three.</p>
+      <p begin="00:54:00.840" end="00:54:05.750">And, I'm looking forward to the upcoming launch of quantum break next week.</p>
+      <p begin="00:54:05.750" end="00:54:10.450">We have heard the feedback from the pc gaming community loud and clear and we're</p>
+      <p begin="00:54:10.450" end="00:54:15.380">working to ensure windows ten has a great game experience</p>
+      <p begin="00:54:15.380" end="00:54:19.450">we will be enabling the ability to disable v-sync and adding support for</p>
+      <p begin="00:54:19.450" end="00:54:25.330">g-sync and freesync in may directx twelve added support for new</p>
+      <p begin="00:54:25.330" end="00:54:30.180">multiple gpu scenarios which work today for both windows thirty-two</p>
+      <p begin="00:54:30.180" end="00:54:32.570">can-you wa games.</p>
+      <p begin="00:54:32.570" end="00:54:36.390">And, we're committed to ensuring we meet or exceed the performance</p>
+      <p begin="00:54:36.390" end="00:54:40.990">expectations of full-screen games as well as the additional features</p>
+      <p begin="00:54:40.990" end="00:54:47.030">requested including support for overlays modding and more.</p>
+      <p begin="00:54:47.030" end="00:54:49.380">We also know many of you have</p>
+      <p begin="00:54:49.380" end="00:54:54.200">win thirty-two game code bases today and we want to give you access the</p>
+      <p begin="00:54:54.200" end="00:54:59.040">ability to easily package your games as modern desktop applications</p>
+      <p begin="00:54:59.040" end="00:55:03.880">through the desktop app converter let's take a look and see how that works.</p>
+      <p begin="00:55:03.880" end="00:55:06.880">So, one of my favorite games and I hear it's a</p>
+      <p begin="00:55:06.880" end="00:55:11.390">favorite of our founder a is age of empires so</p>
+      <p begin="00:55:11.390" end="00:55:15.420">what we did is we took age of empires to ht you can see append</p>
+      <p begin="00:55:15.420" end="00:55:20.150">the start menu that this is the package you would get from steam where it's available today and in</p>
+      <p begin="00:55:20.150" end="00:55:24.700">fact if you watch you'll see the live tile turn and you'll see the number of people that are</p>
+      <p begin="00:55:24.700" end="00:55:29.200">actually playing this game live right now and steamworks we have five thousand two hundred and twenty</p>
+      <p begin="00:55:29.200" end="00:55:34.180">three players so what we did is we took the package from steam ran it through the converter and turn it</p>
+      <p begin="00:55:34.180" end="00:55:38.610">on modern desktop application so let's launch it to see how it runs you can see</p>
+      <p begin="00:55:38.610" end="00:55:43.210">it launch our splash screen.</p>
+      <p begin="00:55:43.210" end="00:55:45.860">Steamworks kicks up.</p>
+      <p begin="00:55:45.860" end="00:55:48.940">Adhered it's so we're now in age to running just as</p>
+      <p begin="00:55:48.940" end="00:55:53.020">would run if you bought it from steam today multiplayer is here one of the</p>
+      <p begin="00:55:53.020" end="00:55:57.470">requests we've heard from people support for mods and how that's going to work stuff, you know,</p>
+      <p begin="00:55:57.470" end="00:56:02.130">anything about age too, you know, and, steam workshop we have the mod here's the list</p>
+      <p begin="00:56:02.130" end="00:56:05.610">of mods that are available for each to I could select any of these apply am</p>
+      <p begin="00:56:05.610" end="00:56:10.560">against the running when the running version of the game here and they would work just fine but I want to</p>
+      <p begin="00:56:10.560" end="00:56:12.610">actually boot the game?</p>
+      <p begin="00:56:12.610" end="00:56:17.220">And, just show use proof is here.</p>
+      <p begin="00:56:17.220" end="00:56:21.030">And, there you go so age do eights d running as a modern desktop</p>
+      <p begin="00:56:21.030" end="00:56:25.880">application taking advantage of all the features that windows stands enables on</p>
+      <p begin="00:56:25.880" end="00:56:30.750">while I love age to quava we want to challenge ourselves a little more to see how our</p>
+      <p begin="00:56:30.750" end="00:56:34.990">platforms holding up so we did an experiment in this is just the</p>
+      <p begin="00:56:34.990" end="00:56:40.470">experiment with our friends at cd projekt red we took the witcher occurring but for</p>
+      <p begin="00:56:40.470" end="00:56:44.620">many people as a twenty fifteen pc game of the year an amazing game ran it through</p>
+      <p begin="00:56:44.620" end="00:56:53.190">the same converter let me show you how it works so here is find the start menu.</p>
+      <p begin="00:56:53.190" end="00:56:58.460">It's bigger game takes a bit longer load.</p>
+      <p begin="00:56:58.460" end="00:57:04.840">It is so what you'll see a moi.</p>
+      <p begin="00:57:04.840" end="00:57:14.450">Is there it is the witcher to running a full frame rate as a modern desktop application?</p>
+      <p begin="00:57:14.450" end="00:57:16.200">This allows these games</p>
+      <p begin="00:57:16.200" end="00:57:21.000">to take advantage of the common services and technology and both xbox</p>
+      <p begin="00:57:21.000" end="00:57:25.830">in windows tent things like platform-specific features like live tile support</p>
+      <p begin="00:57:25.830" end="00:57:30.190">notifications like you just saw in this demo and kevin's demo earlier we</p>
+      <p begin="00:57:30.190" end="00:57:34.560">have consistent input support with controller and mouse and keyboard across all</p>
+      <p begin="00:57:34.560" end="00:57:41.420">of our devices and distribution in the windows store or any other store.</p>
+      <p begin="00:57:41.420" end="00:57:46.270">We've said from the start we want xbox one to be a great place for games</p>
+      <p begin="00:57:46.270" end="00:57:51.180">and also a great place for developers of all sizes so you can create new games</p>
+      <p begin="00:57:51.180" end="00:57:54.590">and application experiences today I</p>
+      <p begin="00:57:54.590" end="00:57:58.830">am pleased to announce xbox dev mode giving developers the</p>
+      <p begin="00:57:58.830" end="00:58:05.530">ability to convert their retail xbox one into a development kit.</p>
+      <p begin="00:58:05.530" end="00:58:10.400">Please welcome axes biker from our xbox platform team to show us how</p>
+      <p begin="00:58:10.400" end="00:58:15.390">thanks ashley we are building a truly universal platform where your apps run everywhere</p>
+      <p begin="00:58:15.390" end="00:58:20.220">including the xbox one which provides a huge opportunity for app developers to bring</p>
+      <p begin="00:58:20.220" end="00:58:25.170">their experiences to life in the living room so now I'm going to show you how anyone can take</p>
+      <p begin="00:58:25.170" end="00:58:30.590">a retail xbox one and turn it into a dev kit.</p>
+      <p begin="00:58:30.590" end="00:58:35.560">I was playing forts over here but I really want to do is work on my app ash photo which I'll show</p>
+      <p begin="00:58:35.560" end="00:58:39.910">you in a minute but first I need to put my consul into dev mode.</p>
+      <p begin="00:58:39.910" end="00:58:40.920">So, go over here</p>
+      <p begin="00:58:40.920" end="00:58:45.720">now run the dev mode activation app which I've already downloaded from the store.</p>
+      <p begin="00:58:45.720" end="00:58:50.140">This app allows you to register your consul as a deb consul which I've already done using my</p>
+      <p begin="00:58:50.140" end="00:58:53.620">same account in dead-center where I submit all my other uw</p>
+      <p begin="00:58:53.620" end="00:59:00.570">p applications this means that I can switch to dev mode with a single button press.</p>
+      <p begin="00:59:00.570" end="00:59:04.830">Once the xbox is finished rebooting it will be in dev mode which means I can</p>
+      <p begin="00:59:04.830" end="00:59:09.040">deploy and debug my app now while attributing let's go over here to</p>
+      <p begin="00:59:09.040" end="00:59:15.030">the pc and look at asch photo running on the pc where I'm actually writing.</p>
+      <p begin="00:59:15.030" end="00:59:19.130">So, you can see how the ui elements move and adjust as a change the size of</p>
+      <p begin="00:59:19.130" end="00:59:25.370">the window and now let's see how we can deploy this theme app to the xbox one</p>
+      <p begin="00:59:25.370" end="00:59:28.450">so I'll stop debugging over here on the pc and I'll switch</p>
+      <p begin="00:59:28.450" end="00:59:33.610">local machine to remote machine this is the ip address of my xbox.</p>
+      <p begin="00:59:33.610" end="00:59:35.430">And, then the signal.</p>
+      <p begin="00:59:35.430" end="00:59:40.360">And, since I've already paired visual studio with my xbox I can do a remote deploy just like</p>
+      <p begin="00:59:40.360" end="00:59:44.280">any other universal windows device.</p>
+      <p begin="00:59:50.010" end="00:59:55.010">Right so that's my consul in years my app running on my xbox one so,</p>
+      <p begin="00:59:55.010" end="00:59:59.240">this is the exact same code that we were just debugging over here but now that</p>
+      <p begin="00:59:59.240" end="01:00:03.490">it's on the consul you can tell that it's been optimized for the living room.</p>
+      <p begin="01:00:03.490" end="01:00:07.470">Good news is that the universal windows platform did a lot of the heavy lifting,</p>
+      <p begin="01:00:07.470" end="01:00:10.580">for example, the controller just works</p>
+      <p begin="01:00:10.580" end="01:00:15.140">all xaml controls have already been optimized to work with the game bad just like you would</p>
+      <p begin="01:00:15.140" end="01:00:20.060">expect including focus navigation and not just on xbox.</p>
+      <p begin="01:00:20.060" end="01:00:24.630">Works the same way and the desktop when you have a controller plugged in fact all</p>
+      <p begin="01:00:24.630" end="01:00:32.460">the xaml controls are designed to work great with touch mouse and controller.</p>
+      <p begin="01:00:32.460" end="01:00:34.800">Helpful life.</p>
+      <p begin="01:00:34.800" end="01:00:36.660">It also means that</p>
+      <p begin="01:00:36.660" end="01:00:42.540">you can continue to test when you don't have your xbox look in your flight back home.</p>
+      <p begin="01:00:42.540" end="01:00:46.690">Now since this is a universal windows application it also have access to the same</p>
+      <p begin="01:00:46.690" end="01:00:51.400">universal apis including apis for speech recognition and synthesis so</p>
+      <p begin="01:00:51.400" end="01:00:56.080">I've added a fun feature which allows me to add speech bubbles to my photos I can simply use</p>
+      <p begin="01:00:56.080" end="01:01:00.520">the speech recognizer to fill them in which an xbox is way</p>
+      <p begin="01:01:00.520" end="01:01:09.020">easier than typing so let me show you how this works will caption this photo right now.</p>
+      <p begin="01:01:09.020" end="01:01:12.710">Lions bark right.</p>
+      <p begin="01:01:12.710" end="01:01:15.710">Boom there we go.</p>
+      <p begin="01:01:15.710" end="01:01:18.870">So, much easier than typing.</p>
+      <p begin="01:01:18.870" end="01:01:22.420">Ok, I want to show you guys one more thing so in addition to the</p>
+      <p begin="01:01:22.420" end="01:01:25.520">dev mode activation app I showed earlier there's another app</p>
+      <p begin="01:01:25.520" end="01:01:31.760">called dev home which will automatically get loaded on your consul once you've put it in dev mode.</p>
+      <p begin="01:01:31.760" end="01:01:36.590">And, when you run it has everything you need is a developer from anything from account management to</p>
+      <p begin="01:01:36.590" end="01:01:41.090">developer settings most importantly once I'm done working on my app</p>
+      <p begin="01:01:41.090" end="01:01:44.810">for the night and I want to go back to playing forza I can just go ahead and</p>
+      <p begin="01:01:44.810" end="01:01:49.200">press leave developer mode and back to retail mode?</p>
+      <p begin="01:01:49.200" end="01:01:57.710">I should mention that a preview of dev mode will be available starting today.</p>
+      <p begin="01:01:57.710" end="01:01:58.570">Thanks ashley.</p>
+      <p begin="01:01:59.670" end="01:02:04.170">Our commitment to turn every xbox one into a dev kit</p>
+      <p begin="01:02:04.170" end="01:02:06.880">is into hobby gets a commitment</p>
+      <p begin="01:02:06.880" end="01:02:11.140">it's a commitment to empower every developer on the planet to reach the</p>
+      <p begin="01:02:11.140" end="01:02:17.770">largest addressable tv audience on one open app platform.</p>
+      <p begin="01:02:17.770" end="01:02:22.550">But, enabling developers to create and deploy uw key apps and games on xbox one is</p>
+      <p begin="01:02:22.550" end="01:02:27.150">just the beginning with the upcoming windows ten anniversary update we will</p>
+      <p begin="01:02:27.150" end="01:02:31.730">continue our progress that brought xbox live to all windows devices</p>
+      <p begin="01:02:31.730" end="01:02:35.940">and the xbox app to windows ten where millions of gamers are connected</p>
+      <p begin="01:02:35.940" end="01:02:40.740">around the world we will also be adding a single unify store</p>
+      <p begin="01:02:40.740" end="01:02:45.310">across devices giving developers new features and consumers</p>
+      <p begin="01:02:45.310" end="01:02:50.050">a consistent experience new support will be will include features</p>
+      <p begin="01:02:50.050" end="01:02:55.040">that game developers have come to expect and require from xbox one into the</p>
+      <p begin="01:02:55.040" end="01:02:59.960">windows store including support for bundles season passes preorders and</p>
+      <p begin="01:02:59.960" end="01:03:05.080">more we will also be bringing cortana to xbox one</p>
+      <p begin="01:03:05.080" end="01:03:10.080">cortana will become your personal gaming assistant would help to help you find</p>
+      <p begin="01:03:10.080" end="01:03:14.990">great new games new challenges or help you with tips and tricks.</p>
+      <p begin="01:03:14.990" end="01:03:18.660">And, the foundation for some of the most-requested new features,</p>
+      <p begin="01:03:18.660" end="01:03:26.600">features like background music which will also come with the anniversary update.</p>
+      <p begin="01:03:26.600" end="01:03:30.960">Will announce new anniversary update features for xbox one and windows ten at you</p>
+      <p begin="01:03:30.960" end="01:03:33.210">three in june?</p>
+      <p begin="01:03:33.210" end="01:03:35.660">Fate finally I want to close with the technology</p>
+      <p begin="01:03:35.660" end="01:03:40.640">that allows developers to maximize their own investment across xbox one and windows</p>
+      <p begin="01:03:40.640" end="01:03:44.450">ten directx twelve allows developers</p>
+      <p begin="01:03:44.450" end="01:03:49.380">to unlock the full potential of the graphics hardware in pcs in</p>
+      <p begin="01:03:49.380" end="01:03:54.350">xbox one it's the most powerful in efficient graphics api we've ever</p>
+      <p begin="01:03:54.350" end="01:03:59.920">shipped we're seeing incredible industry adoption of directx twelve in fact it's</p>
+      <p begin="01:03:59.920" end="01:04:04.860">the fastest adoption of any directx version in history.</p>
+      <p begin="01:04:04.860" end="01:04:07.280">Let's take a look at what that our can</p>
+      <p begin="01:04:07.280" end="01:04:18.690">deliver when put in the hands of the greatest developers on the planet thank you.</p>
+      <p begin="01:05:27.160" end="01:05:31.040">Good morning everyone wow what a phenomenal</p>
+      <p begin="01:05:31.040" end="01:05:35.890">time to be a windows developer guys realize that from xbox.</p>
+      <p begin="01:05:35.890" end="01:05:40.600">To holograms windows and our universal platform is</p>
+      <p begin="01:05:40.600" end="01:05:44.320">where this future is being created a future</p>
+      <p begin="01:05:44.320" end="01:05:50.440">that is impossible on any other platform or set of devices last</p>
+      <p begin="01:05:50.440" end="01:05:55.260">year here at build we ask you to share in our dreams for</p>
+      <p begin="01:05:55.260" end="01:06:00.080">a holographic tomorrow a future where we bring three-d</p>
+      <p begin="01:06:00.080" end="01:06:04.130">holographic content into the real world enhancing the way we</p>
+      <p begin="01:06:04.130" end="01:06:07.970">experience life beyond our ordinary range of perception.</p>
+      <p begin="01:06:09.070" end="01:06:12.400">And, today is the day</p>
+      <p begin="01:06:12.400" end="01:06:16.250">where we leap from dreaming about mixed worlds.</p>
+      <p begin="01:06:16.250" end="01:06:18.810">To having microsoft hololens become</p>
+      <p begin="01:06:18.810" end="01:06:25.030">a reality exclusively on windows stent and to help.</p>
+      <p begin="01:06:25.030" end="01:06:28.270">Thank you.</p>
+      <p begin="01:06:28.270" end="01:06:32.510">And, to help us celebrate this moment mets help me welcome</p>
+      <p begin="01:06:32.510" end="01:06:38.630">on stage hololens is co-creator kudo tsunoda.</p>
+      <p begin="01:06:38.630" end="01:06:43.120">Hey, kudo.</p>
+      <p begin="01:06:43.120" end="01:06:48.030">World waded to announce and we couldn't be more proud that today</p>
+      <p begin="01:06:48.030" end="01:06:52.920">march thirtieth twenty sixteen microsoft hololens the</p>
+      <p begin="01:06:52.920" end="01:06:57.730">first and still the only untethered holographic computer</p>
+      <p begin="01:06:57.730" end="01:07:02.190">will start shipping to our windows developers and to our enterprise partners</p>
+      <p begin="01:07:02.190" end="01:07:06.220">our journey starts right here right now with</p>
+      <p begin="01:07:06.220" end="01:07:10.340">all of you our creators our dreamers our windows</p>
+      <p begin="01:07:10.340" end="01:07:10.840">developers.</p>
+      <p begin="01:07:12.780" end="01:07:13.550">Should moi?</p>
+      <p begin="01:07:19.760" end="01:07:24.280">I have waited for this moment for a very long-time.</p>
+      <p begin="01:07:24.280" end="01:07:26.800">And, because hololens is a windows stand</p>
+      <p begin="01:07:26.800" end="01:07:31.620">device all of our tools are familiar your investment in uw</p>
+      <p begin="01:07:31.620" end="01:07:36.460">piece will continue to carry forward but to help a little bit</p>
+      <p begin="01:07:36.460" end="01:07:41.270">with inspiration let me update you on a project that we launched earlier</p>
+      <p begin="01:07:41.270" end="01:07:46.170">this year called share your idea the community submitted</p>
+      <p begin="01:07:46.170" end="01:07:50.980">ideas for applications that we could build all of you voted</p>
+      <p begin="01:07:50.980" end="01:07:52.360">and we built.</p>
+      <p begin="01:07:52.360" end="01:07:56.720">We built galaxy explorer in just a short six weeks</p>
+      <p begin="01:07:56.720" end="01:08:01.500">we chronicled the project all along the way this week we</p>
+      <p begin="01:08:01.500" end="01:08:04.230">finish the project and today we are announcing</p>
+      <p begin="01:08:04.230" end="01:08:08.940">the project is going to go up on the windows store and all of the</p>
+      <p begin="01:08:08.940" end="01:08:17.489">code will be made available online via github let's take a quick look.</p>
+      <p begin="01:08:17.489" end="01:08:21.919">With hololens dev kit about to go out into the world we ask the community what would you want</p>
+      <p begin="01:08:21.919" end="01:08:26.179">us to build after so many more than five thousand ideas you voted for</p>
+      <p begin="01:08:26.179" end="01:08:30.669">a galaxy explorer we've invaded you into the process of brainstorming</p>
+      <p begin="01:08:30.669" end="01:08:35.559">prototyping and developing for hololens galaxy explorer is a jumping off point</p>
+      <p begin="01:08:35.559" end="01:08:40.359">for developing for hololens so you can actually download all of our source code and see how we inc</p>
+      <p begin="01:08:40.359" end="01:08:44.969">gaze gesture voice spatial sound and spatial mapping and then use that directly in</p>
+      <p begin="01:08:44.969" end="01:08:50.449">your own projects we want to show you how we actually develop apps through videos and blog</p>
+      <p begin="01:08:50.449" end="01:08:54.939">post we let-you into our development process we also brought in the share your idea</p>
+      <p begin="01:08:54.939" end="01:08:58.079">contributor take a look at galaxy explorer and give us feedback</p>
+      <p begin="01:08:58.079" end="01:09:03.029">from the seems like there's so many possibilities gather building apps I want to push</p>
+      <p begin="01:09:03.029" end="01:09:04.879">create boundaries in samoa.</p>
+      <p begin="01:09:06.249" end="01:09:10.159">There's still so much more you can have to be app now we want to see what ideas you</p>
+      <p begin="01:09:10.159" end="01:09:14.970">can today were they seem to have asked.</p>
+      <p begin="01:09:14.970" end="01:09:25.130">The source code you can use it is inspiration ceremonies.</p>
+      <p begin="01:09:25.130" end="01:09:25.630">Samoa.</p>
+      <p begin="01:09:35.980" end="01:09:37.290">From individual developers</p>
+      <p begin="01:09:38.650" end="01:09:43.280">to customers like volvo autodesk and trimble.</p>
+      <p begin="01:09:43.280" end="01:09:45.160">Thousands of people have</p>
+      <p begin="01:09:45.160" end="01:09:48.350">experience hololens over the last year.</p>
+      <p begin="01:09:48.350" end="01:09:51.060">Dreaming about holographic experiences</p>
+      <p begin="01:09:51.060" end="01:09:55.460">that eventually become pilots and ultimately</p>
+      <p begin="01:09:55.460" end="01:10:00.820">become real experiences deployed in production the change the</p>
+      <p begin="01:10:00.820" end="01:10:07.130">way we work communicate learn and play technical buildings as an example</p>
+      <p begin="01:10:07.130" end="01:10:10.830">they are rethinking the entire construction planning process</p>
+      <p begin="01:10:10.830" end="01:10:15.120">from first pitch through groundbreaking development or</p>
+      <p begin="01:10:15.120" end="01:10:19.870">take japan airlines on the other hand they have a vision for holographic computing</p>
+      <p begin="01:10:19.870" end="01:10:22.080">the impact every area of</p>
+      <p begin="01:10:22.080" end="01:10:28.070">their training and operations now these are just two examples of companies</p>
+      <p begin="01:10:28.070" end="01:10:32.350">and organizations of all shapes and sizes across a wide</p>
+      <p begin="01:10:32.350" end="01:10:36.940">range of industries who are piloting amazing universal</p>
+      <p begin="01:10:36.940" end="01:10:41.500">windows applications created specifically for mixed reality</p>
+      <p begin="01:10:41.500" end="01:10:46.310">in our new holographic landscape but pilots.</p>
+      <p begin="01:10:46.310" end="01:10:52.080">And, proof of concepts eventually move into production last year</p>
+      <p begin="01:10:52.080" end="01:10:55.570">here at build professor mark griswold join me on stage.</p>
+      <p begin="01:10:56.630" end="01:11:01.280">In we showed you a proof of concept where we use hololens to innovate</p>
+      <p begin="01:11:01.280" end="01:11:03.540">on how medical students learn.</p>
+      <p begin="01:11:03.540" end="01:11:07.390">At the same time case western reserve university and the cleveland</p>
+      <p begin="01:11:07.390" end="01:11:12.540">clinic broke ground the construction of their brand-new medical school</p>
+      <p begin="01:11:12.540" end="01:11:15.640">facility an amazing facility that</p>
+      <p begin="01:11:15.640" end="01:11:20.420">will use hololens as a key part of their curriculum now over the last two</p>
+      <p begin="01:11:20.420" end="01:11:25.190">months twelve months this proof of concept has moved into production and</p>
+      <p begin="01:11:25.190" end="01:11:29.200">today I am honored to have doctor pamela davis</p>
+      <p begin="01:11:29.200" end="01:11:33.230">dean of case western reserve university school of medicine into</p>
+      <p begin="01:11:33.230" end="01:11:37.580">our team members henry and jeff join us to tell us more</p>
+      <p begin="01:11:37.580" end="01:11:41.120">about teaching medicine with hololens welcome.</p>
+      <p begin="01:11:42.320" end="01:11:43.490">Doctor david moi.</p>
+      <p begin="01:11:47.100" end="01:11:48.720">Good morning.</p>
+      <p begin="01:11:48.720" end="01:11:52.620">At case western reserve our motto is think beyond the</p>
+      <p begin="01:11:52.620" end="01:11:53.120">possible.</p>
+      <p begin="01:11:54.340" end="01:11:58.120">And, today we and the cleveland clinic are constructing</p>
+      <p begin="01:11:58.120" end="01:12:01.980">a state-of-the-future health education campus.</p>
+      <p begin="01:12:01.980" end="01:12:06.000">Within this building our students will learn using the</p>
+      <p begin="01:12:06.000" end="01:12:10.590">most forward use looking educational programs hololens</p>
+      <p begin="01:12:10.590" end="01:12:15.970">is a key part of this now last year we showed a few things that we thought</p>
+      <p begin="01:12:15.970" end="01:12:18.250">might be possible with hololens.</p>
+      <p begin="01:12:19.660" end="01:12:22.650">Since october we've had a small team of three</p>
+      <p begin="01:12:22.650" end="01:12:26.320">computer programmers turning our ideas into reality.</p>
+      <p begin="01:12:27.550" end="01:12:30.370">Today we're going to show you some of our work</p>
+      <p begin="01:12:30.370" end="01:12:34.340">on our holographic anatomy program an example of the</p>
+      <p begin="01:12:34.340" end="01:12:40.350">hours of curricular content that we have created now anatomy is all about</p>
+      <p begin="01:12:40.350" end="01:12:45.090">mastering the complex systems in the body and you can see from the digestive</p>
+      <p begin="01:12:45.090" end="01:12:49.730">system here that there are a lot of parts in a small space.</p>
+      <p begin="01:12:49.730" end="01:12:54.090">And, students need to understand not only how these parts fit together but how</p>
+      <p begin="01:12:54.090" end="01:12:58.990">they work together henry can you tell us which organ in the body</p>
+      <p begin="01:12:58.990" end="01:13:03.060">aids in digestion and also makes insulin yes the</p>
+      <p begin="01:13:03.060" end="01:13:07.200">be the pancreas to be a little hard to see it behind the stomach here</p>
+      <p begin="01:13:07.200" end="01:13:13.370">but thankfully with hololens it's really easy to get the best view of things.</p>
+      <p begin="01:13:13.370" end="01:13:17.860">Now another area that's difficult for our students to fully grasp is the nervous</p>
+      <p begin="01:13:17.860" end="01:13:19.270">system.</p>
+      <p begin="01:13:19.270" end="01:13:23.200">Hololens can make this much easier by improving</p>
+      <p begin="01:13:23.200" end="01:13:26.550">our interactive learning beyond the single classroom.</p>
+      <p begin="01:13:27.750" end="01:13:31.420">Professor mark griswold can teach us about the anatomy of</p>
+      <p begin="01:13:31.420" end="01:13:36.710">the brain even though he's in cleveland let's show you how this works.</p>
+      <p begin="01:13:36.710" end="01:13:40.430">Are you there mark?</p>
+      <p begin="01:13:40.430" end="01:13:44.740">hi pam my everybody welcome to our new classroom.</p>
+      <p begin="01:13:44.740" end="01:13:49.330">This is our new system that allows me to teach and interact with you even though I'm not there</p>
+      <p begin="01:13:49.330" end="01:13:54.250">at build I'll tell you this feels really natural the three of us can see each</p>
+      <p begin="01:13:54.250" end="01:13:58.650">other's were talking which makes us feel connected and even though you can only see my</p>
+      <p begin="01:13:58.650" end="01:14:02.500">head and hand you get a sense of my body language this is</p>
+      <p begin="01:14:02.500" end="01:14:08.440">really changing what it means to be in class mark let show them the white matter</p>
+      <p begin="01:14:08.440" end="01:14:13.710">tracks these tracts act like super highways allowing</p>
+      <p begin="01:14:13.710" end="01:14:19.440">messages to travel from one part of the brain to another this example comes from</p>
+      <p begin="01:14:19.440" end="01:14:24.420">an mri scan of a real patient from the laboratory of professor</p>
+      <p begin="01:14:24.420" end="01:14:29.170">cameron mcintyre at case western reserve university it's</p>
+      <p begin="01:14:29.170" end="01:14:33.650">critical that our students know how these structures relate to one another I can tell you</p>
+      <p begin="01:14:33.650" end="01:14:37.950">I've looked at datasets like this for over ten years and I never fully understood</p>
+      <p begin="01:14:37.950" end="01:14:42.990">their three-d structure until I saw them in hololens let's say we have a patient with a brain</p>
+      <p begin="01:14:42.990" end="01:14:47.740">tumor which are showing here with this red area hey jeff and henry.</p>
+      <p begin="01:14:47.740" end="01:14:52.100">Can you see how this tumor intersects the light blue tract but not the green tract or</p>
+      <p begin="01:14:52.100" end="01:14:55.650">the yellow one this allows us to predict the impact to this tumor on the</p>
+      <p begin="01:14:55.650" end="01:15:00.320">patience symptoms and their outcomes after surgery?</p>
+      <p begin="01:15:00.320" end="01:15:03.370">This could impact the occipital lobe back here.</p>
+      <p begin="01:15:03.370" end="01:15:06.910">Which may harm the patient's vision might also influence the</p>
+      <p begin="01:15:06.910" end="01:15:11.940">prior lobe here which would affect their sense of touch?</p>
+      <p begin="01:15:11.940" end="01:15:14.540">The quicker our students learn facts like</p>
+      <p begin="01:15:14.540" end="01:15:16.950">teas the more time they have to</p>
+      <p begin="01:15:16.950" end="01:15:20.660">think with them we're teaching them to think like a doctor.</p>
+      <p begin="01:15:21.830" end="01:15:23.910">Thanks mark for joining us today.</p>
+      <p begin="01:15:25.050" end="01:15:25.740">Bye everybody.</p>
+      <p begin="01:15:26.870" end="01:15:31.400">Being untethered able to walk around three-d holographic content</p>
+      <p begin="01:15:31.400" end="01:15:36.950">gives our students a real advantage students of commented that a fifteen-minute</p>
+      <p begin="01:15:36.950" end="01:15:41.090">session with hololens could have saved them dozens of hours in the</p>
+      <p begin="01:15:41.090" end="01:15:43.160">cap cadaveric lab</p>
+      <p begin="01:15:43.160" end="01:15:49.760">when we have only four short years to train them this is extremely valuable.</p>
+      <p begin="01:15:49.760" end="01:15:53.310">We're so grateful to microsoft for giving us the opportunity to</p>
+      <p begin="01:15:53.310" end="01:15:58.110">develop this technology and we can't wait to collaborate with others.</p>
+      <p begin="01:15:58.110" end="01:15:58.540">Using</p>
+      <p begin="01:15:58.540" end="01:16:05.940">hololens to think and to see beyond the possible.</p>
+      <p begin="01:16:05.940" end="01:16:08.700">Just amazing thank you so much.</p>
+      <p begin="01:16:08.700" end="01:16:13.270">Thank you so much.</p>
+      <p begin="01:16:13.270" end="01:16:14.850">Now nasa was</p>
+      <p begin="01:16:14.850" end="01:16:19.370">our first partner they have also made incredible progress over</p>
+      <p begin="01:16:19.370" end="01:16:24.040">the last year they have developed several applications</p>
+      <p begin="01:16:24.040" end="01:16:30.320">that are already deployed in production let's take a quick look.</p>
+      <p begin="01:16:30.320" end="01:16:34.850">Nasa were excited to apply mixed-reality technologies to the challenges we're facing</p>
+      <p begin="01:16:34.850" end="01:16:38.920">in space exploration collaboration with microsoft for building</p>
+      <p begin="01:16:38.920" end="01:16:43.770">applications support engineers responsible for the design assembly spacecraft</p>
+      <p begin="01:16:43.770" end="01:16:48.600">action of working on the international space station and scientists are now using our mars</p>
+      <p begin="01:16:48.600" end="01:16:53.800">to onsite in mission operations onsite to powerful tony truck scientists and</p>
+      <p begin="01:16:53.800" end="01:16:57.880">engineers portable nods but because we always felt it should remain</p>
+      <p begin="01:16:57.880" end="01:17:00.620">only within transfer taken the core on-site</p>
+      <p begin="01:17:00.620" end="01:17:05.190">amazed, amazed experience that allows the public puts fool threat.</p>
+      <p begin="01:17:05.190" end="01:17:10.350">We call this new experiences destination moi.</p>
+      <p begin="01:17:10.350" end="01:17:15.200">Mars can be a lonely place so we've created holographic captures of an astronaut</p>
+      <p begin="01:17:15.200" end="01:17:19.640">in a member of the curiosity rover team to be on guides on this journey this</p>
+      <p begin="01:17:19.640" end="01:17:26.380">game is an opportunity to immortalized a hero moi bozo.</p>
+      <p begin="01:17:26.380" end="01:17:31.180">Looking forward to opening the destination mars exhibit at the kennedy space center visitor complex</p>
+      <p begin="01:17:31.180" end="01:17:36.480">and summer twenty-six team we can't wait to share this journey with the world</p>
+      <p begin="01:17:42.730" end="01:17:43.230">Samoa.</p>
+      <p begin="01:17:45.610" end="01:17:47.580">And, here's the best part.</p>
+      <p begin="01:17:47.580" end="01:17:53.690">Of thank you.</p>
+      <p begin="01:17:53.690" end="01:17:58.340">And, use my favorite part nasa brought destination mars</p>
+      <p begin="01:17:58.340" end="01:18:00.390">your to the build conference so that all of</p>
+      <p begin="01:18:00.390" end="01:18:05.000">you our windows developers can be the first people in the world to</p>
+      <p begin="01:18:05.000" end="01:18:11.990">view mars from the same perspective as nasa scientists working today.</p>
+      <p begin="01:18:17.200" end="01:18:21.160">Hololens star shipping today.</p>
+      <p begin="01:18:21.160" end="01:18:22.640">Marks.</p>
+      <p begin="01:18:22.640" end="01:18:24.460">Thank you.</p>
+      <p begin="01:18:24.460" end="01:18:28.850">Marking another great step on our journey of interacting with</p>
+      <p begin="01:18:28.850" end="01:18:30.020">computers</p>
+      <p begin="01:18:30.020" end="01:18:34.820">ever more-personal ways my ask of all of you.</p>
+      <p begin="01:18:34.820" end="01:18:38.200">To actually join us and help us create.</p>
+      <p begin="01:18:38.200" end="01:18:41.370">This new reality our partners have done exactly</p>
+      <p begin="01:18:41.370" end="01:18:45.240">that over the last twelve months and the progress is nothing</p>
+      <p begin="01:18:45.240" end="01:18:50.350">short of spectacular so let me leave you today with a snapshot of</p>
+      <p begin="01:18:50.350" end="01:18:57.270">their tremendous creativity I hope to see all of you this week your at build thank you.</p>
+      <p begin="01:20:33.830" end="01:20:38.840">It fantastic to see the progress on the windows platform and one of the things that</p>
+      <p begin="01:20:38.840" end="01:20:43.680">I'm most excited about is how windows can become</p>
+      <p begin="01:20:43.680" end="01:20:48.360">the dev box of choice whether you're writing wintry to apps and converting them</p>
+      <p begin="01:20:48.360" end="01:20:52.730">into modern desktop apps writing universal windows apps web</p>
+      <p begin="01:20:52.730" end="01:20:55.060">apps or even linux backends or</p>
+      <p begin="01:20:55.060" end="01:20:59.060">ios android apps you can do them all right on windows and its</p>
+      <p begin="01:20:59.060" end="01:21:05.340">fantastic to see bringing that developer love to built.</p>
+      <p begin="01:21:05.340" end="01:21:10.430">also are really excited about I think the opportunities the new frontiers.</p>
+      <p begin="01:21:10.430" end="01:21:14.030">That windows represents for all of you as developers whether it be</p>
+      <p begin="01:21:14.030" end="01:21:18.360">writing that next pen app whether it's the speech app</p>
+      <p begin="01:21:18.360" end="01:21:22.840">its computer vision all holograms these new frontiers I think are</p>
+      <p begin="01:21:22.840" end="01:21:27.490">a fantastic opportunity where you can learn a lot about them at build and we really hope to</p>
+      <p begin="01:21:27.490" end="01:21:30.860">see your creation in our store so what</p>
+      <p begin="01:21:30.860" end="01:21:35.570">are now switch gears to talk about this conversation as a platform.</p>
+      <p begin="01:21:35.570" end="01:21:38.590">As I said this is at the confluence of all of</p>
+      <p begin="01:21:38.590" end="01:21:44.310">our three platforms azure office three-six five as well as windows stand.</p>
+      <p begin="01:21:44.310" end="01:21:46.180">It is in fact,</p>
+      <p begin="01:21:46.180" end="01:21:48.800">you know, best brought a whole with an anecdote.</p>
+      <p begin="01:21:49.870" end="01:21:54.200">That she knew shared with me about is mall.</p>
+      <p begin="01:21:54.200" end="01:21:58.640">Yahoo's eighty-years-old lives in china she has been try to use because of</p>
+      <p begin="01:21:58.640" end="01:22:03.580">cheese influence computers and she found it very hard even the</p>
+      <p begin="01:22:03.580" end="01:22:09.110">web although it was one of the greatest democratizing forces of computing she found</p>
+      <p begin="01:22:09.110" end="01:22:13.030">it hard to navigate between websites was uncomfortable clicking on</p>
+      <p begin="01:22:13.030" end="01:22:18.060">lengths the mobile phone and the app revolution ob</p>
+      <p begin="01:22:18.060" end="01:22:22.830">further democratized things but even there going and finding the right app</p>
+      <p begin="01:22:22.830" end="01:22:27.820">was difficult so she never got around using it was using sms and</p>
+      <p begin="01:22:27.820" end="01:22:32.650">now with wechat she's able to at the age of eighty not</p>
+      <p begin="01:22:32.650" end="01:22:38.150">only have all the conversations with people seamlessly but</p>
+      <p begin="01:22:38.150" end="01:22:43.730">she's also able to interact with businesses and</p>
+      <p begin="01:22:43.730" end="01:22:46.150">And, that shows the our.</p>
+      <p begin="01:22:46.150" end="01:22:47.280">Of human language.</p>
+      <p begin="01:22:48.290" end="01:22:52.240">We want to take that our of human language and as I said earlier</p>
+      <p begin="01:22:52.240" end="01:22:57.150">apply it more pervasively to all of the computing interface and</p>
+      <p begin="01:22:57.150" end="01:23:02.970">the computing interaction and to do that though you have to infuse.</p>
+      <p begin="01:23:02.970" end="01:23:07.960">Into computers and computing around us intelligence that means you</p>
+      <p begin="01:23:07.960" end="01:23:12.890">have to bring forth these technologies of artificial intelligence and machine</p>
+      <p begin="01:23:12.890" end="01:23:17.670">learning so that we can teach computers to learn.</p>
+      <p begin="01:23:17.670" end="01:23:22.860">Human language have conversational understanding teach them about</p>
+      <p begin="01:23:22.860" end="01:23:27.020">the broad context people places things.</p>
+      <p begin="01:23:27.020" end="01:23:31.790">Context about your preferences your personal knowledge.</p>
+      <p begin="01:23:31.790" end="01:23:35.860">So, that they can really help you with your everyday tasks</p>
+      <p begin="01:23:35.860" end="01:23:41.470">and everyday life both at work and elsewhere.</p>
+      <p begin="01:23:41.470" end="01:23:42.960">So, as we infuse.</p>
+      <p begin="01:23:44.690" end="01:23:45.490">Intelligence</p>
+      <p begin="01:23:45.490" end="01:23:51.620">into everything I think it's very important to have a principled approach.</p>
+      <p begin="01:23:51.620" end="01:23:56.220">a way to guide our design as well as how we build things?</p>
+      <p begin="01:23:56.220" end="01:24:01.190">So, at microsoft we are focused on an approach that grounded in our</p>
+      <p begin="01:24:01.190" end="01:24:06.090">mission to empower people and organizations all over the planet to achieve model</p>
+      <p begin="01:24:06.090" end="01:24:11.670">the three core principles here first we want to build</p>
+      <p begin="01:24:11.670" end="01:24:16.490">intelligence that augments human abilities and</p>
+      <p begin="01:24:16.490" end="01:24:22.360">experiences ultimately it's not going to be about man versus machine</p>
+      <p begin="01:24:22.360" end="01:24:26.260">is going to be about man with machines each of us</p>
+      <p begin="01:24:26.260" end="01:24:29.310">excel a very different things.</p>
+      <p begin="01:24:29.310" end="01:24:35.120">The fact that we have creativity empathy emotion.</p>
+      <p begin="01:24:35.120" end="01:24:38.020">And, judgment.</p>
+      <p begin="01:24:38.020" end="01:24:42.850">That can then be mixed with fast computation the ability to reason over large amounts of</p>
+      <p begin="01:24:42.850" end="01:24:47.440">data and do pattern recognition fast it's that bringing together</p>
+      <p begin="01:24:47.440" end="01:24:53.190">that I think is going to help us move our society forward?</p>
+      <p begin="01:24:53.190" end="01:24:57.420">We also have to build trust right into our technology that means.</p>
+      <p begin="01:24:57.420" end="01:25:02.230">You have to have technology that has built-in protections for privacy</p>
+      <p begin="01:25:02.230" end="01:25:08.770">east got transparency you have security as well as compliance.</p>
+      <p begin="01:25:08.770" end="01:25:09.420">And, lastly.</p>
+      <p begin="01:25:10.450" end="01:25:16.490">All technology that we build to be more inclusive and respectful</p>
+      <p begin="01:25:16.490" end="01:25:22.620">we need to build technology so that more people can use technology.</p>
+      <p begin="01:25:22.620" end="01:25:23.190">And, we want</p>
+      <p begin="01:25:23.190" end="01:25:32.140">to build technology such that it gets the best of humanity not the worst.</p>
+      <p begin="01:25:32.140" end="01:25:35.670">this is already guiding us as we build skype translate.</p>
+      <p begin="01:25:36.680" end="01:25:41.580">To have conversational understanding as we build out cortana to have</p>
+      <p begin="01:25:41.580" end="01:25:50.770">more expertise as we build hololens to have environmental understanding.</p>
+      <p begin="01:25:50.770" end="01:25:54.040">Reuse this approach when we get it wrong in fact just last week when we</p>
+      <p begin="01:25:54.040" end="01:25:58.700">launched our incubation tay which is a social bot in the united states</p>
+      <p begin="01:25:58.700" end="01:26:03.440">we quickly realized that it was not up to this mark.</p>
+      <p begin="01:26:03.440" end="01:26:06.640">So, we're back to the drawing board.</p>
+      <p begin="01:26:06.640" end="01:26:10.680">Why we continue to incubate xiaoice and rina in</p>
+      <p begin="01:26:10.680" end="01:26:17.640">china and japan and learn why is it that the social bots there'd work differently?</p>
+      <p begin="01:26:17.640" end="01:26:21.930">And, that's how we want to make progress this approach is always going to be</p>
+      <p begin="01:26:21.930" end="01:26:25.470">front-and-center to us.</p>
+      <p begin="01:26:25.470" end="01:26:27.700">When we talk about conversations as a platform</p>
+      <p begin="01:26:29.160" end="01:26:34.430">that reactors there's baths people?</p>
+      <p begin="01:26:34.430" end="01:26:39.020">We want to be able to have the most natural conversations with other</p>
+      <p begin="01:26:39.020" end="01:26:40.480">people.</p>
+      <p begin="01:26:40.480" end="01:26:42.980">We want in fact to enrich our</p>
+      <p begin="01:26:42.980" end="01:26:47.470">conversations and skype translate is a fantastic example of that because I'm able to</p>
+      <p begin="01:26:47.470" end="01:26:51.420">talking to different languages and really have automatic translation</p>
+      <p begin="01:26:52.570" end="01:26:57.040">we also have presence you saw in the holographic</p>
+      <p begin="01:26:57.040" end="01:27:01.370">demo how you can have remote presence.</p>
+      <p begin="01:27:01.370" end="01:27:07.950">These are all ways for us to enhance human conversations.</p>
+      <p begin="01:27:07.950" end="01:27:14.990">But, we want to take that same our of human conversations and applied to everything</p>
+      <p begin="01:27:14.990" end="01:27:18.370">And, that's where these other actors come in a personal digital</p>
+      <p begin="01:27:18.370" end="01:27:23.350">assistant that knows you knows about your world is always with you</p>
+      <p begin="01:27:23.350" end="01:27:29.170">across all your devices helping you with your everyday tasks.</p>
+      <p begin="01:27:29.170" end="01:27:34.760">And, bots are like new applications that you converse with</p>
+      <p begin="01:27:34.760" end="01:27:37.620">you're not really looking for multiple applications.</p>
+      <p begin="01:27:39.180" end="01:27:43.350">Pages and pages a websites or apps but you just able</p>
+      <p begin="01:27:43.350" end="01:27:50.870">to call on any application as a bot right within a conversational canvas.</p>
+      <p begin="01:27:50.870" end="01:27:54.780">So, this is the rich world of conversations that we envision people-to-people</p>
+      <p begin="01:27:55.790" end="01:28:01.280">people to your personal digital assistant people-to-bots and</p>
+      <p begin="01:28:01.280" end="01:28:06.230">even personal digital assistants calling on bots on your behalf.</p>
+      <p begin="01:28:06.230" end="01:28:15.540">That's the world that you're going to get to see in the years to come.</p>
+      <p begin="01:28:15.540" end="01:28:19.610">So, you can conceptualize this platform.</p>
+      <p begin="01:28:19.610" end="01:28:20.800">Where human language?</p>
+      <p begin="01:28:21.840" end="01:28:25.510">Is the new ui layer?</p>
+      <p begin="01:28:25.510" end="01:28:29.830">Bots are like new applications.</p>
+      <p begin="01:28:29.830" end="01:28:36.250">And, digital assistants are meta apps for like the new browsers.</p>
+      <p begin="01:28:36.250" end="01:28:40.720">And, intelligence is infused into all of your interactions</p>
+      <p begin="01:28:40.720" end="01:28:46.640">that's the rich platform that we have.</p>
+      <p begin="01:28:46.640" end="01:28:47.430">So, let's start.</p>
+      <p begin="01:28:48.570" end="01:28:51.490">By talking about cortana.</p>
+      <p begin="01:28:51.490" end="01:28:54.110">We introduced cortana two years ago and</p>
+      <p begin="01:28:54.110" end="01:28:57.700">ever since then it's becoming smarter every day.</p>
+      <p begin="01:28:58.750" end="01:29:01.950">Because of its ability to know you.</p>
+      <p begin="01:29:02.960" end="01:29:06.800">To know about your organization to know about the world</p>
+      <p begin="01:29:06.800" end="01:29:11.580">and reason about all of this on a continuous basis.</p>
+      <p begin="01:29:11.580" end="01:29:14.580">It's built natively into windows.</p>
+      <p begin="01:29:14.580" end="01:29:16.740">But, it's not limited to windows</p>
+      <p begin="01:29:16.740" end="01:29:19.870">it's going to be available on all your devices</p>
+      <p begin="01:29:19.870" end="01:29:23.140">whether ios android across all of your applications.</p>
+      <p begin="01:29:24.520" end="01:29:29.370">Because if it's going to be a useful personal digital assistant it has to be about</p>
+      <p begin="01:29:29.370" end="01:29:33.520">new not a single device and that's really</p>
+      <p begin="01:29:33.520" end="01:29:41.480">how we are building out cortana.</p>
+      <p begin="01:29:41.480" end="01:29:46.140">And, we're also making it such that the expertise of cortana is</p>
+      <p begin="01:29:46.140" end="01:29:52.150">extensible it's truly unbounded in that way so the opportunity</p>
+      <p begin="01:29:52.150" end="01:29:56.720">for developers to addicts their expertise the expertise that they have</p>
+      <p begin="01:29:56.720" end="01:30:01.010">in their applications this services into cortana</p>
+      <p begin="01:30:01.010" end="01:30:05.150">so that can further drive engagement for their applications</p>
+      <p begin="01:30:05.150" end="01:30:10.000">and services that developer opportunity is something that we want to talk about so to show</p>
+      <p begin="01:30:10.000" end="01:30:14.930">you how this unbounded personal digital assistant works across</p>
+      <p begin="01:30:14.930" end="01:30:19.450">all of your devices and creates this ability for developers to</p>
+      <p begin="01:30:19.450" end="01:30:30.900">extended with your expertise please help me welcome markets ash from the cortana team.</p>
+      <p begin="01:30:30.900" end="01:30:35.190">Good morning everyone it's great to be here at build to get a chance to give you an early preview of</p>
+      <p begin="01:30:35.190" end="01:30:39.880">our future plans first I want to talk about a new experience the anniversary update</p>
+      <p begin="01:30:39.880" end="01:30:44.540">we want windows to be the best place to have a voice conversation with cortana, cortana</p>
+      <p begin="01:30:44.540" end="01:30:49.110">is answering one million voice questions per day we have almost a thousand applications that</p>
+      <p begin="01:30:49.110" end="01:30:53.580">integrate with cortana voice commands and today there's a new cortana app store collection</p>
+      <p begin="01:30:53.580" end="01:30:59.560">available so customers can check out some great examples we want to go even further and</p>
+      <p begin="01:30:59.560" end="01:31:05.320">make a voice conversation with cortana as easy as a voice conversation with a human.</p>
+      <p begin="01:31:05.320" end="01:31:09.760">So, I've got this beautiful all-in-one with a nice big-screen you can see at the top left</p>
+      <p begin="01:31:09.760" end="01:31:15.850">corner cortana is ready for me to have a conversation I go sausalito tonight I don't know where that</p>
+      <p begin="01:31:15.850" end="01:31:19.700">is I don't know-how long it's going to take cortana can help me event hey cortana.</p>
+      <p begin="01:31:20.780" end="01:31:27.770">How long would take to get to sausalito?</p>
+      <p begin="01:31:27.770" end="01:31:32.420">It will take twenty-seven minutes to drive to sausalito it's about twelve miles</p>
+      <p begin="01:31:32.420" end="01:31:37.370">away all the things you expect to work in this experience on the lock screen I can play my</p>
+      <p begin="01:31:37.370" end="01:31:42.120">music I can set alarm and this also gives a much bigger stage to let cortana</p>
+      <p begin="01:31:42.120" end="01:31:44.270">is personality shine through.</p>
+      <p begin="01:31:44.270" end="01:31:52.210">Hey, cortana will tell me a science joke.</p>
+      <p begin="01:31:52.210" end="01:31:55.840">Sodium, sodium, sodium, sodium, sodium, sodium, sodium, sodium batman.</p>
+      <p begin="01:31:59.570" end="01:32:07.140">Vanna on nana old school batman, batman you guys with me.</p>
+      <p begin="01:32:07.140" end="01:32:08.700">This experience is going to be shipping in</p>
+      <p begin="01:32:08.700" end="01:32:11.660">the anniversary update it's also going to be available in thirteen countries.</p>
+      <p begin="01:32:12.720" end="01:32:17.620">Cortana is going to be here all week and the expo fair please go checker out but now I want to show you how</p>
+      <p begin="01:32:17.620" end="01:32:26.480">she helps me get stuff done here's an early preview of some new experiences that will release the coming months.</p>
+      <p begin="01:32:26.480" end="01:32:28.570">Notice that cortana is coming to outlook and</p>
+      <p begin="01:32:28.570" end="01:32:32.920">scheduled some appointments for me it's the blue with the circle.</p>
+      <p begin="01:32:32.920" end="01:32:36.190">The idea there is cortana is now in outlook and</p>
+      <p begin="01:32:36.190" end="01:32:39.780">she looking at my email and my calendar with my permission and</p>
+      <p begin="01:32:39.780" end="01:32:44.470">helping me get things done stay on top of things a good example this week I was exchanging a bunch of</p>
+      <p begin="01:32:44.470" end="01:32:49.180">email with our microsoft travel service trying to figure out the best time to get home on friday</p>
+      <p begin="01:32:49.180" end="01:32:52.720">cortana is able to understand that conversation about me doing anything adding</p>
+      <p begin="01:32:52.720" end="01:33:00.240">create appointment she automatically put all that flight information my counter to make it really easy for me to track.</p>
+      <p begin="01:33:00.240" end="01:33:04.020">She applies the same conversational intelligence to help me stay on top of commitments</p>
+      <p begin="01:33:04.020" end="01:33:08.570">in email I get a ton of email which makes it easy for me to forget things I said</p>
+      <p begin="01:33:08.570" end="01:33:11.860">I would do so here cortana is flagged something I said</p>
+      <p begin="01:33:11.860" end="01:33:16.740">semi manager today I was actually going to get ahead of this on the plane but the siren song of</p>
+      <p begin="01:33:16.740" end="01:33:21.600">that flight infotainment system gap me again no problem cortana is there and she</p>
+      <p begin="01:33:21.600" end="01:33:28.810">knows the last time I made an update she knows where the document as I can ask a good take care of this warming.</p>
+      <p begin="01:33:28.810" end="01:33:34.490">Send chuck the powerpoint that are worked on last night.</p>
+      <p begin="01:33:34.490" end="01:33:40.280">Sure, thing I found this powerpoint document is this it.</p>
+      <p begin="01:33:40.280" end="01:33:42.430">I go ahead and get that sent.</p>
+      <p begin="01:33:42.430" end="01:33:49.460">Since cortana is not bound to specific device thank you thank you.</p>
+      <p begin="01:33:49.460" end="01:33:54.190">Now since cortana is not bound to a specific device she helps me keep track of notifications that are</p>
+      <p begin="01:33:54.190" end="01:33:58.490">happening right here my android phone while I'm doing work on my pc.</p>
+      <p begin="01:33:58.490" end="01:34:03.280">So, here I've got a notification a text message that came in from my friend ben he's here in the bay area</p>
+      <p begin="01:34:03.280" end="01:34:06.200">what's michigan together go blue and we were talking about</p>
+      <p begin="01:34:06.200" end="01:34:12.530">get-together after the keynote any michigan grads out there we go for.</p>
+      <p begin="01:34:12.530" end="01:34:24.800">I can go ahead and respond right here for my pc.</p>
+      <p begin="01:34:24.800" end="01:34:27.930">Cortana knows that I'm talking about meeting with ben she offers to add</p>
+      <p begin="01:34:27.930" end="01:34:28.810">this to my calendar.</p>
+      <p begin="01:34:30.010" end="01:34:33.420">And, then she tells me got a couple of other things there can I help you movies.</p>
+      <p begin="01:34:34.440" end="01:34:39.490">But, see then are some work-related stuff I choose ben and what she did</p>
+      <p begin="01:34:39.490" end="01:34:42.120">there is appointments from noon on wednesday</p>
+      <p begin="01:34:42.120" end="01:34:51.110">automatically shift to the appointment the free block of time I have there on thursday?</p>
+      <p begin="01:34:51.110" end="01:34:55.080">Now since that meeting with ben is over lunch you can see here the cortana is brought</p>
+      <p begin="01:34:55.080" end="01:34:59.970">in some proactive actions that she thinks can help me cortana has a team of experts</p>
+      <p begin="01:34:59.970" end="01:35:04.910">that she relies on this idea that cortana doesn't need to know everything she can go and ask experts</p>
+      <p begin="01:35:04.910" end="01:35:09.610">for health experts are all of you developers that are creating these amazing apps and services that can integrate</p>
+      <p begin="01:35:09.610" end="01:35:14.450">right into cortana so the cases this meetings over lunch I might want to book a table</p>
+      <p begin="01:35:14.450" end="01:35:18.910">we might not have time so I might need to bring in some food or she can offer some helpful</p>
+      <p begin="01:35:18.910" end="01:35:24.140">suggestions about things to do here you can see a bunch of options city food tour sounds great</p>
+      <p begin="01:35:24.140" end="01:35:29.460">here some information about that notice the option to buy tickets.</p>
+      <p begin="01:35:29.460" end="01:35:34.390">Extensibility also means help me get that action done here create a very simple sample application</p>
+      <p begin="01:35:34.390" end="01:35:39.280">city food tour notice cortana is passed in some context for me there are two of us in the meeting</p>
+      <p begin="01:35:39.280" end="01:35:46.650">invite here some other information I can confirm my order now I've got tickets purchased.</p>
+      <p begin="01:35:46.650" end="01:35:51.020">This same experience also works for business applications so the next time I go to cortana</p>
+      <p begin="01:35:51.020" end="01:35:55.130">she's queuing up another thing she thinks I might want to work on in this case I took a taxi</p>
+      <p begin="01:35:55.130" end="01:35:59.800">last night and cortana found out there was a receipt my email and she's</p>
+      <p begin="01:35:59.800" end="01:36:03.970">offered to help me put that into my expense report we use the microsoft expense</p>
+      <p begin="01:36:03.970" end="01:36:08.810">application internally to track this kind of thing when I click on that notice that all of the</p>
+      <p begin="01:36:08.810" end="01:36:14.100">information and details map receipt are put into that application.</p>
+      <p begin="01:36:14.100" end="01:36:20.210">And, I go ahead and add choose to save that.</p>
+      <p begin="01:36:20.210" end="01:36:25.000">Since cortana is not bound to a particular device I can finish all these tasks here</p>
+      <p begin="01:36:25.000" end="01:36:26.900">on my android phone.</p>
+      <p begin="01:36:26.900" end="01:36:31.960">So, when I go ahead launch cortana?</p>
+      <p begin="01:36:31.960" end="01:36:35.300">You can see that my meeting with ben is here and I got the tickets to the food city</p>
+      <p begin="01:36:35.300" end="01:36:40.210">tours the microsoft expense application here I go ahead and choose to submit that</p>
+      <p begin="01:36:41.510" end="01:36:45.940">and it's all taken care of since the phone as my most personal device</p>
+      <p begin="01:36:45.940" end="01:36:50.890">its with me all the time cortana can augment me in very interesting ways so I</p>
+      <p begin="01:36:50.890" end="01:36:54.980">have a five-year-old son and I started this tradition two years ago when I</p>
+      <p begin="01:36:54.980" end="01:36:58.960">brought him home a toy from a business trip.</p>
+      <p begin="01:36:58.960" end="01:37:03.100">Now every time daddy goes in a business trip little man thinks</p>
+      <p begin="01:37:03.100" end="01:37:07.480">is birthday and daddy better deliver and bring home yet another toy I</p>
+      <p begin="01:37:07.480" end="01:37:11.450">don't remember the name of the toy store that I went to last year was here but it</p>
+      <p begin="01:37:11.450" end="01:37:19.290">had great transformers and things that he wants so since cortana is with me she can help enhance my memory.</p>
+      <p begin="01:37:19.290" end="01:37:28.630">What toy store did I go to last year at build?</p>
+      <p begin="01:37:28.630" end="01:37:34.160">You can see she finds the correct toy store again she brings in helpful proactive actions.</p>
+      <p begin="01:37:34.160" end="01:37:38.850">Now let me show you how easy it is to create these actions.</p>
+      <p begin="01:37:38.850" end="01:37:42.610">Here on the developer portal today we're announcing an invite-based preview</p>
+      <p begin="01:37:42.610" end="01:37:49.180">for proactive actions and here's the portal that you can use to connect your apps and websites to cortana.</p>
+      <p begin="01:37:49.180" end="01:37:49.390">I want</p>
+      <p begin="01:37:49.390" end="01:37:54.340">to share two examples of partners that are already integrated glimpse and just the.</p>
+      <p begin="01:37:54.340" end="01:37:58.320">Glimpse provides an easy way to safely share your location with some and real-time</p>
+      <p begin="01:37:58.320" end="01:38:02.500">data great idea for improving the arm running late experience beatings.</p>
+      <p begin="01:38:02.500" end="01:38:06.450">Instead of fumbling around trying to figure out how to send a text message and figure out what am I going to</p>
+      <p begin="01:38:06.450" end="01:38:10.560">get there and I really going to get there at the time I think I can just send a glimpse which gives</p>
+      <p begin="01:38:10.560" end="01:38:16.990">all the attendees real-time tracking of me with a map and tells me my expected eta.</p>
+      <p begin="01:38:16.990" end="01:38:21.860">Just eat is a leading food delivery service based uk and they're very excited about scenarios like helping you</p>
+      <p begin="01:38:21.860" end="01:38:28.190">order dinner when you're working late let me show you how easy it was for just eat to configure the portal</p>
+      <p begin="01:38:28.190" end="01:38:32.490">only a few steps the first thing you do is you go and add insights,</p>
+      <p begin="01:38:32.490" end="01:38:36.220">insights control when cortana surfaces your action.</p>
+      <p begin="01:38:36.220" end="01:38:41.060">That's this column right here this column is the contextual info this is the information that you want</p>
+      <p begin="01:38:41.060" end="01:38:45.970">your app to request from customers so that just eat example just eat would like to know</p>
+      <p begin="01:38:45.970" end="01:38:54.220">my cuisine preferences because they can do a much better job of give-me helpful suggestions if they knew that I love sushi.</p>
+      <p begin="01:38:54.220" end="01:38:58.030">Customers are always in control of data that cortana shares so she's always going</p>
+      <p begin="01:38:58.030" end="01:39:03.380">to ask permission before any data sent applications and services.</p>
+      <p begin="01:39:03.380" end="01:39:07.690">Here the deep links that you create open your app these deep links are</p>
+      <p begin="01:39:07.690" end="01:39:12.460">not restricted to a particular device a platform we support windows applications we</p>
+      <p begin="01:39:12.460" end="01:39:19.100">support android applications ios applications are coming in the future and we also support websites.</p>
+      <p begin="01:39:19.100" end="01:39:23.430">And, then finally some metadata that you ads that shows how the experience shows up</p>
+      <p begin="01:39:23.430" end="01:39:31.080">in the cortana ui along with an icon.</p>
+      <p begin="01:39:31.080" end="01:39:35.380">So, here you can see a sample appointment and both glimpse and just eat</p>
+      <p begin="01:39:35.380" end="01:39:38.020">are here as actions it only take took just</p>
+      <p begin="01:39:38.020" end="01:39:48.030">eat fifteen minutes to get their app registered to work in this experience.</p>
+      <p begin="01:39:48.030" end="01:39:52.110">We're looking forward to seeing all the great ideas you have for integrating with cortana please request</p>
+      <p begin="01:39:52.110" end="01:40:02.550">an invites the cortana developer preview and I hope to see you at the cortana sessions thank you.</p>
+      <p begin="01:40:02.550" end="01:40:05.140">Thanks mark is that gives you a glimpse</p>
+      <p begin="01:40:05.140" end="01:40:10.080">of how cortana is a truly unbounded personal assistant that's always</p>
+      <p begin="01:40:10.080" end="01:40:14.730">with you and for developers it represents a new opportunity for</p>
+      <p begin="01:40:14.730" end="01:40:16.490">you for you to be able to take the</p>
+      <p begin="01:40:16.490" end="01:40:21.420">expertise that you have in your applications the intelligence that you have in your</p>
+      <p begin="01:40:21.420" end="01:40:27.480">services and then register them as extensions and insights and action.</p>
+      <p begin="01:40:27.480" end="01:40:30.400">So, we want to now move to another</p>
+      <p begin="01:40:30.400" end="01:40:35.230">canvas another set of tools where conversations are taking place these</p>
+      <p begin="01:40:35.230" end="01:40:40.930">are our communications tools there are a wide variety of their in fact we</p>
+      <p begin="01:40:40.930" end="01:40:45.540">envision a world where there are going to be in more and more communications</p>
+      <p begin="01:40:45.540" end="01:40:51.090">tools because that's one of the most innate things that we as people do.</p>
+      <p begin="01:40:51.090" end="01:40:53.780">And, we want all of these conversational</p>
+      <p begin="01:40:54.950" end="01:41:01.920">tools to become rich canvases for computation.</p>
+      <p begin="01:41:01.920" end="01:41:06.790">In our case we have outlook and skype.</p>
+      <p begin="01:41:06.790" end="01:41:10.750">And, we want to ton bs into these rich conversational canvases</p>
+      <p begin="01:41:10.750" end="01:41:13.400">skype has over three hundred</p>
+      <p begin="01:41:13.400" end="01:41:18.210">million connected users each month every day there</p>
+      <p begin="01:41:18.210" end="01:41:21.980">is over three billion minutes of.</p>
+      <p begin="01:41:21.980" end="01:41:25.640">Voice calls happening on skype so</p>
+      <p begin="01:41:25.640" end="01:41:29.950">it's a tremendous amount of activity so now</p>
+      <p begin="01:41:29.950" end="01:41:34.250">imagine if we can open up skype.</p>
+      <p begin="01:41:34.250" end="01:41:37.250">Not only to have all the rich people-to-people</p>
+      <p begin="01:41:37.250" end="01:41:42.120">conversations things that we are doing with skype translate or</p>
+      <p begin="01:41:42.120" end="01:41:47.000">skype on the hololens what if we can now.</p>
+      <p begin="01:41:48.020" end="01:41:49.590">Bring in.</p>
+      <p begin="01:41:49.590" end="01:41:53.740">Your personal digital assistant right to your conversational</p>
+      <p begin="01:41:53.740" end="01:41:58.100">canvas what if we brought the world a bots.</p>
+      <p begin="01:41:58.100" end="01:42:02.210">The new applications to be able to do anything.</p>
+      <p begin="01:42:02.210" end="01:42:03.510">Like hire cab.</p>
+      <p begin="01:42:04.520" end="01:42:10.230">Book a ticket anything that you may want to do that you've done historically with</p>
+      <p begin="01:42:10.230" end="01:42:15.100">applications and websites now with bots right from within skype.</p>
+      <p begin="01:42:15.100" end="01:42:17.270">We don't even stop there.</p>
+      <p begin="01:42:17.270" end="01:42:19.300">You want to add richness</p>
+      <p begin="01:42:19.300" end="01:42:22.760">to these bots so it's not just text bots.</p>
+      <p begin="01:42:22.760" end="01:42:26.760">We want to have animation you want to have videos and we also want</p>
+      <p begin="01:42:26.760" end="01:42:31.530">to have holograms and to show you this rich world of conversational</p>
+      <p begin="01:42:31.530" end="01:42:41.830">canvases starting with skype I want to invite up on stage lilian from the skype the lilian.</p>
+      <p begin="01:42:41.830" end="01:42:43.850">Right hello everyone</p>
+      <p begin="01:42:43.850" end="01:42:48.250">I'm super excited to be here with you today I get the pleasure of showing</p>
+      <p begin="01:42:48.250" end="01:42:52.320">you our vision for how we see intelligence integrated into one of the</p>
+      <p begin="01:42:52.320" end="01:42:57.820">most popular ways that people communicate today skype.</p>
+      <p begin="01:42:57.820" end="01:42:59.190">Estate that, you know, and,</p>
+      <p begin="01:42:59.190" end="01:43:05.560">love is going to be smarter more helpful and entertaining.</p>
+      <p begin="01:43:05.560" end="01:43:10.560">We're moving into a world where you will soon be able to plan trips shop.</p>
+      <p begin="01:43:10.560" end="01:43:16.070">Even talk to intelligent bots all from within your skype chat.</p>
+      <p begin="01:43:16.070" end="01:43:20.420">I'm going to show you a demo of this next generation of skype scented scape will work</p>
+      <p begin="01:43:20.420" end="01:43:28.400">on ios android mac web you name it and I m going to show it to you on my windows phone.</p>
+      <p begin="01:43:28.400" end="01:43:34.050">So, here I see that I have one missed notification let's see that's from.</p>
+      <p begin="01:43:34.050" end="01:43:36.070">And, odds from gurdeep for those of you that don't know</p>
+      <p begin="01:43:36.070" end="01:43:40.130">greedy start corporate vice president for skates I canning are this as so</p>
+      <p begin="01:43:40.130" end="01:43:46.940">let's go into it and you see I have a visual video mail from somebody I'm going to play it.</p>
+      <p begin="01:43:46.940" end="01:43:48.280">Hey, I just learned you with</p>
+      <p begin="01:43:48.280" end="01:43:55.070">us keynote codess again this year congratulations attacks everything universe skype.</p>
+      <p begin="01:43:55.070" end="01:44:01.100">That is amazing I am a huge fan of code osman a send him a quick thank you.</p>
+      <p begin="01:44:01.100" end="01:44:02.790">So, right away as you're seeing here</p>
+      <p begin="01:44:02.790" end="01:44:07.490">there are some new things in this next generation of skype you see this visual video mail so</p>
+      <p begin="01:44:07.490" end="01:44:11.730">we have a video message with the transcript right below this is one of the examples where</p>
+      <p begin="01:44:11.730" end="01:44:16.620">we taking intelligence from things like skype translator and bringing them directly into everyday features</p>
+      <p begin="01:44:16.620" end="01:44:21.300">like video messages and narrative is telling me the team has sent me a little something</p>
+      <p begin="01:44:21.300" end="01:44:27.830">so that's really nice I'll send him a quick little happy emoticon so in this next generation of</p>
+      <p begin="01:44:27.830" end="01:44:32.030">said the other thing that you'll notice in the canvas is my personal assistant cortana</p>
+      <p begin="01:44:32.030" end="01:44:36.740">is always there in the upper right-hand corner cortana is there if I want to talk</p>
+      <p begin="01:44:36.740" end="01:44:41.440">to her one-on-one or in a group or even as you can see here she subtly</p>
+      <p begin="01:44:41.440" end="01:44:47.580">improving my messages by highlighting key points in my text like codess.</p>
+      <p begin="01:44:47.580" end="01:44:51.160">So, I can tap on codess you see this rich card powered by bing that showing us</p>
+      <p begin="01:44:51.160" end="01:44:54.210">set code is a real organization that microsoft</p>
+      <p begin="01:44:54.210" end="01:45:01.710">sponsors to really promote women in technology which is something that I'm very passionate about.</p>
+      <p begin="01:45:01.710" end="01:45:06.080">So, now you see cortana is actually sending me a private message I'm going to tap that and I</p>
+      <p begin="01:45:06.080" end="01:45:10.740">go into the one-on-one conversation I have with cortana so she's telling me the</p>
+      <p begin="01:45:10.740" end="01:45:17.800">custom cakes bot would like to know my location for delivery and yes I'll share it.</p>
+      <p begin="01:45:17.800" end="01:45:24.040">And, what I like to track delivery also yes I'll share it so right away what you're seeing here is that?</p>
+      <p begin="01:45:24.040" end="01:45:25.290">The agent cortana</p>
+      <p begin="01:45:25.290" end="01:45:29.800">is actually brokering the conversation with the third-party bot the custom cakes bot</p>
+      <p begin="01:45:30.980" end="01:45:35.780">now I see this rich card that is showing me that the cupcake is on its way and that</p>
+      <p begin="01:45:35.780" end="01:45:40.760">it will be here within a few minutes all of this is happening within my skype chats.</p>
+      <p begin="01:45:40.760" end="01:45:43.080">This is just one example of the many ways that you're going to</p>
+      <p begin="01:45:43.080" end="01:45:49.770">start seeing businesses using the our of skype and cortana to interact with their customers.</p>
+      <p begin="01:45:49.770" end="01:45:51.590">Now since I'm already talking to cortana and</p>
+      <p begin="01:45:51.590" end="01:45:57.320">I've committed to doing this keynote I'm going-to go ahead and try to plan the rest of my trip.</p>
+      <p begin="01:45:57.320" end="01:46:06.970">Please block my calendar for codess from april ten through april twelfth.</p>
+      <p begin="01:46:06.970" end="01:46:10.470">These other used push talk because I didn't feel like typing.</p>
+      <p begin="01:46:10.470" end="01:46:13.150">And, reilly everything your notice here is that cortana</p>
+      <p begin="01:46:13.150" end="01:46:17.700">actually has context for my previous chat with gurdeep so even though I just told that the</p>
+      <p begin="01:46:17.700" end="01:46:24.760">date it actually knows the location and, you know, that its from the conversation with gurdeep.</p>
+      <p begin="01:46:24.760" end="01:46:29.320">Now cortana is proactively thinking about the next steps in coordinating my trip so</p>
+      <p begin="01:46:29.320" end="01:46:33.840">she's actually suggesting that I connect with the westin bot anybody that knows me knows I normally stay at</p>
+      <p begin="01:46:33.840" end="01:46:37.940">a westin bot and I'm so you see here now is cortana has actually</p>
+      <p begin="01:46:37.940" end="01:46:41.930">introduced the westin bot into the conversation but not only has</p>
+      <p begin="01:46:41.930" end="01:46:44.440">he done that she has given the westin bot</p>
+      <p begin="01:46:44.440" end="01:46:48.990">context so I don't have to repeat myself the westin bot knows this is for dublin and</p>
+      <p begin="01:46:48.990" end="01:46:54.830">its for those particular dates all of this saves me a lot of time and effort.</p>
+      <p begin="01:46:54.830" end="01:47:00.950">Now there are suggested rooms I'm going to choose the normal room.</p>
+      <p begin="01:47:00.950" end="01:47:04.980">Confirmation and just like that into simple steps I was able to</p>
+      <p begin="01:47:04.980" end="01:47:17.830">block my calendar and also book my hotel room.</p>
+      <p begin="01:47:17.830" end="01:47:26.860">Now there's nothing else the westin bot can do for me so I m going to say no thank you.</p>
+      <p begin="01:47:26.860" end="01:47:31.330">And, now because cortana has all my relevant details the westin bot can actually leave the</p>
+      <p begin="01:47:31.330" end="01:47:31.830">conversation.</p>
+      <p begin="01:47:33.250" end="01:47:37.140">Now we're seeing a third aspect of cortana she knows my</p>
+      <p begin="01:47:37.140" end="01:47:39.870">connections she knows who I communicate with</p>
+      <p begin="01:47:39.870" end="01:47:44.850">so here you're seeing her actually suggest that when I go on this trip to dublin that I communicate with</p>
+      <p begin="01:47:44.850" end="01:47:49.490">my friend jani and I see this card I could call her directly from here</p>
+      <p begin="01:47:49.490" end="01:47:55.050">are video call her but I don't know what time it is so I'm going to choose to message her clicking that</p>
+      <p begin="01:47:55.050" end="01:48:00.050">takes me to the conversation I have with jani the other thing you'll notice is that cortana because she has</p>
+      <p begin="01:48:00.050" end="01:48:04.900">context about why I m pinging jani she's prepopulated the text</p>
+      <p begin="01:48:04.900" end="01:48:15.160">with context around when I'm going to dublin and basically why I want to talk to her.</p>
+      <p begin="01:48:15.160" end="01:48:22.000">And, fantastic jani is available and she's even going to show me around tab.</p>
+      <p begin="01:48:22.000" end="01:48:25.590">So, this is just a glimpse into how skype and cortana</p>
+      <p begin="01:48:25.590" end="01:48:39.810">powered by bing can make our conversations more productive informed and fine.</p>
+      <p begin="01:48:39.810" end="01:48:44.750">Now as you now real-time video is a big part of how skype is used today</p>
+      <p begin="01:48:44.750" end="01:48:49.100">I just showed you intelligence applied to messaging conversations and I now have the</p>
+      <p begin="01:48:49.100" end="01:48:55.230">pleasure of announcing we will also be bringing intelligence into real-time video.</p>
+      <p begin="01:48:55.230" end="01:48:59.420">Skype video baths will reinvent the way that friends family</p>
+      <p begin="01:48:59.420" end="01:49:05.330">and businesses get together for the first-time we will enable a very personalized</p>
+      <p begin="01:49:05.330" end="01:49:12.660">experience for you to connect with your favorite character business or</p>
+      <p begin="01:49:12.660" end="01:49:15.570">And, the best part is that starting today</p>
+      <p begin="01:49:15.570" end="01:49:26.880">developers will have access to our first ever skype bot sdk.</p>
+      <p begin="01:49:26.880" end="01:49:31.610">And, as you can see there you can also sign up to one of our global hackathons we're starting with the first one in</p>
+      <p begin="01:49:31.610" end="01:49:36.090">may which is happening here down in silicon valley and you'll be able</p>
+      <p begin="01:49:36.090" end="01:49:39.580">to seamlessly integrate into chats like I showed you or even</p>
+      <p begin="01:49:39.580" end="01:49:47.180">invent totally new audio and video experiences for an audience of millions.</p>
+      <p begin="01:49:47.180" end="01:49:52.040">to make this even sweeter for developers as of today skype consumers will</p>
+      <p begin="01:49:52.040" end="01:50:03.570">have access to bots in our latest windows ios and android apps.</p>
+      <p begin="01:50:03.570" end="01:50:08.020">But, this is just the beginning with hololens becoming available we</p>
+      <p begin="01:50:08.020" end="01:50:12.100">are also bringing intelligence into your virtual conversations</p>
+      <p begin="01:50:13.810" end="01:50:18.910">with skype for hololens please roll video.</p>
+      <p begin="01:51:41.220" end="01:51:45.920">Now the new seen what these rich conversational canvases as well</p>
+      <p begin="01:51:45.920" end="01:51:49.820">as personal digital assistants can do for you.</p>
+      <p begin="01:51:49.820" end="01:51:54.690">developers we think that this represents a huge opportunity for you</p>
+      <p begin="01:51:54.690" end="01:51:59.370">to write new types of applications we want</p>
+      <p begin="01:51:59.370" end="01:52:05.090">to empower all developers to do this new work that</p>
+      <p begin="01:52:05.090" end="01:52:10.010">means we want every developer to build.</p>
+      <p begin="01:52:10.010" end="01:52:11.510">Experts for cortana.</p>
+      <p begin="01:52:12.740" end="01:52:16.610">We want every developer to be able to build.</p>
+      <p begin="01:52:16.610" end="01:52:20.540">Bots as the new applications for every business</p>
+      <p begin="01:52:20.540" end="01:52:26.480">and every service we want all developers to be able</p>
+      <p begin="01:52:26.480" end="01:52:32.070">to infuse intelligence into their applications.</p>
+      <p begin="01:52:32.070" end="01:52:35.830">to really make this possible we think of a new run-time.</p>
+      <p begin="01:52:36.850" end="01:52:39.720">Which is this intelligence run time?</p>
+      <p begin="01:52:39.720" end="01:52:45.420">That's all coming together as part of cortana intelligence suite.</p>
+      <p begin="01:52:45.420" end="01:52:47.400">The runs on azure.</p>
+      <p begin="01:52:47.400" end="01:52:49.880">That's going to have a rich bot</p>
+      <p begin="01:52:49.880" end="01:52:54.490">framework a bot framework that will allow you to build.</p>
+      <p begin="01:52:54.490" end="01:53:00.430">Rich dialogue capability into your application into your bot.</p>
+      <p begin="01:53:00.430" end="01:53:04.980">A bot framework that will allow you not just to build bots for any one</p>
+      <p begin="01:53:04.980" end="01:53:05.910">canvas</p>
+      <p begin="01:53:05.910" end="01:53:12.560">we don't envision such a world we envision a world of many conversational canvas.</p>
+      <p begin="01:53:12.560" end="01:53:17.810">So, you will be able to take the bot framework and in fact integrate with all of</p>
+      <p begin="01:53:17.810" end="01:53:24.720">slack skype line outlook all of the canvases.</p>
+      <p begin="01:53:24.720" end="01:53:27.540">We also want to give you a set of micro</p>
+      <p begin="01:53:27.540" end="01:53:32.150">services these cognitive services so that you can have language understanding</p>
+      <p begin="01:53:32.150" end="01:53:37.050">speech understanding computer vision built into your applications and</p>
+      <p begin="01:53:37.050" end="01:53:41.040">also rich machine learning capability because we think</p>
+      <p begin="01:53:41.040" end="01:53:45.030">of this intelligence run time and cortana intelligence</p>
+      <p begin="01:53:45.030" end="01:53:51.190">suite is going to be core just like how the dot net run times were.</p>
+      <p begin="01:53:51.190" end="01:53:54.390">To all the applications that you're going to build going forward.</p>
+      <p begin="01:53:55.570" end="01:54:00.400">And, to give you a glimpse of this world and what cortana intelligence suite</p>
+      <p begin="01:54:00.400" end="01:54:05.140">can enable warning white up onstage my colleague dan lili as well</p>
+      <p begin="01:54:05.140" end="01:54:09.810">as cornelia to give you a sense for what development looks like with these new set of tools</p>
+      <p begin="01:54:09.810" end="01:54:16.950">and micro services dan first new thanks satya?</p>
+      <p begin="01:54:16.950" end="01:54:20.880">In today's demos of windows cortana and skype we've shown you how</p>
+      <p begin="01:54:20.880" end="01:54:24.520">microsoft is creating new conversational experiences if</p>
+      <p begin="01:54:24.520" end="01:54:27.500">you're developer or business professional you may want to add</p>
+      <p begin="01:54:27.500" end="01:54:32.200">bots and conversations your own products and we want to share our services and open</p>
+      <p begin="01:54:32.200" end="01:54:36.300">source our tools so you can use them to build your own great bots.</p>
+      <p begin="01:54:36.300" end="01:54:39.270">So, today I m so excited to introduce a brand-new</p>
+      <p begin="01:54:39.270" end="01:54:49.160">platform for creating intelligent and connected bots the microsoft bot framework.</p>
+      <p begin="01:54:49.160" end="01:54:54.110">What are you're building a simple tick-tack-toe bot creating a productivity bot to make your business smarter</p>
+      <p begin="01:54:54.110" end="01:54:58.990">or faster or adding conversation to an existing brand like you saw with the westin bot the</p>
+      <p begin="01:54:58.990" end="01:55:03.410">microsoft bot framework has everything you need to get your bot stocking?</p>
+      <p begin="01:55:03.410" end="01:55:06.320">Let me give you an introduction.</p>
+      <p begin="01:55:06.320" end="01:55:10.450">If you've already got a bot the microsoft bot framework can seamlessly connect that bots</p>
+      <p begin="01:55:10.450" end="01:55:16.910">as users on skype slack telegram sms email and more.</p>
+      <p begin="01:55:16.910" end="01:55:18.080">Don't have a bot</p>
+      <p begin="01:55:18.080" end="01:55:22.890">our open source bot builder sdk available on github has everything you need to give your</p>
+      <p begin="01:55:22.890" end="01:55:27.820">node dot js or csharp based bot great dialoging conversation skills</p>
+      <p begin="01:55:27.820" end="01:55:33.410">and also makes it easy to integrate natural language processing and machine learning services coming</p>
+      <p begin="01:55:33.410" end="01:55:38.380">soon our bot directory will contain many fantastic bots written using the bot framework</p>
+      <p begin="01:55:38.380" end="01:55:43.010">including the build bot which is available to give you information about the build event like session</p>
+      <p begin="01:55:43.010" end="01:55:47.200">information nearby restaurants and more but</p>
+      <p begin="01:55:47.200" end="01:55:51.810">I'm a developer and I'm really excited to show you how easy it is to write code using the microsoft</p>
+      <p begin="01:55:51.810" end="01:55:56.700">bot framework to show you what it's like I put together a simple bot that orders me pizza from</p>
+      <p begin="01:55:56.700" end="01:56:03.820">domino's this is going to be great you're going to get to see some code and I get order myself lunch?</p>
+      <p begin="01:56:03.820" end="01:56:06.710">Here's the source code for my bot when a user sends my</p>
+      <p begin="01:56:06.710" end="01:56:11.130">bottom message the bot framework calls into this method right here and if user said</p>
+      <p begin="01:56:11.130" end="01:56:15.810">slashed order we drop into this block of code were first I put together my pizza</p>
+      <p begin="01:56:15.810" end="01:56:20.600">medium hand-tossed with spinach and mushrooms then I put that pizza into an order of</p>
+      <p begin="01:56:20.600" end="01:56:27.580">specified the delivery address and the credit card that I found.</p>
+      <p begin="01:56:27.580" end="01:56:32.020">That's a satya assures me use buying and then I place the order to</p>
+      <p begin="01:56:32.020" end="01:56:36.660">dominoes secure rest api now since I'm dealing with a credit card I don't</p>
+      <p begin="01:56:36.660" end="01:56:39.660">want don't transmit that and plain-text so I want to make sure</p>
+      <p begin="01:56:39.660" end="01:56:44.180">that's commit sent securely over secure channel</p>
+      <p begin="01:56:44.180" end="01:56:49.720">tryout our bot I'm going to show you my bots webpage in our bot directory.</p>
+      <p begin="01:56:49.720" end="01:56:53.060">Now it can be really hard to try out new bots so as part of the bot framework</p>
+      <p begin="01:56:53.060" end="01:56:56.770">we've included a reusable and secure will chat control that developers can</p>
+      <p begin="01:56:56.770" end="01:57:00.340">put in their own webpages so customers can talk directly with their bots.</p>
+      <p begin="01:57:00.340" end="01:57:05.160">Straight out of say hi to my bot and a respond if I</p>
+      <p begin="01:57:05.160" end="01:57:15.810">says such order will take just a second and there we go my orders on its way.</p>
+      <p begin="01:57:15.810" end="01:57:19.400">This is great for simple bots but interesting bots need real dialogue</p>
+      <p begin="01:57:19.400" end="01:57:23.640">and language skills that they can hold a real conversation I want my bot to be able to</p>
+      <p begin="01:57:23.640" end="01:57:27.740">excepted an order from a real customer where they can specify the size of their pizza the</p>
+      <p begin="01:57:27.740" end="01:57:32.150">toppings and more and you heard such talk about trustworthiness it's important for</p>
+      <p begin="01:57:32.150" end="01:57:38.090">robot to get the users permission before actually sends the order on its way to dominoes now this is</p>
+      <p begin="01:57:38.090" end="01:57:42.460">were a bot builder sdk really shines our bot builder sdk is available in node dot</p>
+      <p begin="01:57:42.460" end="01:57:46.750">js and csharp but I'm writing in csharp so I'll show you that.</p>
+      <p begin="01:57:46.750" end="01:57:51.570">Use our bot builder sdk I'm just going to remove the existing simple bot code</p>
+      <p begin="01:57:51.570" end="01:57:54.640">that I've got an ad in a couple of lines here.</p>
+      <p begin="01:57:55.650" end="01:57:58.130">And, then up at the top of configured the bot builder</p>
+      <p begin="01:57:58.130" end="01:58:03.450">sdk so, the my bot talks the way I want to I've added welcome message a</p>
+      <p begin="01:58:03.450" end="01:58:08.380">confirmation prompt and then actually added in the code place the order</p>
+      <p begin="01:58:08.380" end="01:58:12.530">the bot builder sdk does all the work of walking my user through filling in my</p>
+      <p begin="01:58:12.530" end="01:58:16.160">up the object that represents my pizza which are defined as a</p>
+      <p begin="01:58:16.160" end="01:58:22.440">plain csharp object with a few annotations now next we're going to actually connect my</p>
+      <p begin="01:58:22.440" end="01:58:26.110">bot to users so I'm going to go to my bots dashboard in the developed</p>
+      <p begin="01:58:26.110" end="01:58:30.460">in our developer portal in the bot framework a you can see here it's</p>
+      <p begin="01:58:30.460" end="01:58:35.310">easy to connect my bot up to services like skype slack telegram</p>
+      <p begin="01:58:35.310" end="01:58:40.350">and others we bought the bot framework to be an open platform so we include many third-party</p>
+      <p begin="01:58:40.350" end="01:58:45.350">services including pervasive services like sms which are accessible worldwide</p>
+      <p begin="01:58:45.350" end="01:58:54.330">and available even on inexpensive devices like this fourteen dollar mobile phone.</p>
+      <p begin="01:58:54.330" end="01:58:59.250">Now we're really excited to introduce the bot framework or even more excited to see the kinds of things</p>
+      <p begin="01:58:59.250" end="01:59:02.590">you write using it we have a session coming up immediately after the keynote at</p>
+      <p begin="01:59:02.590" end="01:59:07.350">eleven thirty were walk you through the process of building a conversational bot from zero to sixty</p>
+      <p begin="01:59:07.350" end="01:59:12.330">using the bot framework hope to see there are up next I like to introduce lili tang</p>
+      <p begin="01:59:12.330" end="01:59:24.910">is going to give you a sneak peek at some upcoming intelligent tools coming to the bot framework in the future.</p>
+      <p begin="01:59:24.910" end="01:59:27.080">So, as dan said I'm going to give you a sneak</p>
+      <p begin="01:59:27.080" end="01:59:36.140">peek at some tools we the experimenting with to help you build your bot sprayed.</p>
+      <p begin="01:59:36.140" end="01:59:37.990">All right so here I have</p>
+      <p begin="01:59:37.990" end="01:59:45.280">my chat control and I can type in please send me a large pepperoni pizza.</p>
+      <p begin="01:59:45.280" end="01:59:49.500">And, you can see that my bot understands the size and toppings</p>
+      <p begin="01:59:49.500" end="01:59:52.560">ask me to clarify what kind of crust I want.</p>
+      <p begin="01:59:52.560" end="01:59:55.960">Now in order to do this your bot needs to understand natural</p>
+      <p begin="01:59:55.960" end="02:00:00.900">language so as you begin before you have real users using your bot</p>
+      <p begin="02:00:00.900" end="02:00:03.770">the before you have real user response data we</p>
+      <p begin="02:00:03.770" end="02:00:13.690">provided some simple tools to help you build your natural language rules let's take a look.</p>
+      <p begin="02:00:13.690" end="02:00:15.890">All right so these are the rules behind my bot</p>
+      <p begin="02:00:15.890" end="02:00:20.750">brain just like dan showed you except we providing you why</p>
+      <p begin="02:00:20.750" end="02:00:25.550">do make them a little bit easier to read so if you look at the first rule it</p>
+      <p begin="02:00:25.550" end="02:00:30.500">matches responses such as deliver me some quantity of</p>
+      <p begin="02:00:30.500" end="02:00:41.210">some size pizza a with some kind of topping that's pretty cool right.</p>
+      <p begin="02:00:41.210" end="02:00:45.650">So, I can just click into the deliver blurb to understand it more and here you</p>
+      <p begin="02:00:45.650" end="02:00:50.580">can see that not only the word deliver triggers the verb but also order and</p>
+      <p begin="02:00:50.580" end="02:00:53.680">by so that's pretty cool too.</p>
+      <p begin="02:00:53.680" end="02:00:57.960">But, what if people use other words?</p>
+      <p begin="02:00:57.960" end="02:01:02.870">Because we mine the web and understand language things like verb</p>
+      <p begin="02:01:02.870" end="02:01:07.740">tense translation into other language common misspellings we can help</p>
+      <p begin="02:01:07.740" end="02:01:11.330">you by providing you some suggestions for synonyms.</p>
+      <p begin="02:01:11.330" end="02:01:14.790">All you need to do is click.</p>
+      <p begin="02:01:14.790" end="02:01:19.980">Select once you once.</p>
+      <p begin="02:01:19.980" end="02:01:28.450">And, you expanded dictionary really easy.</p>
+      <p begin="02:01:28.450" end="02:01:33.030">What else is great is if I have other bots like the cupcake bot that lilian</p>
+      <p begin="02:01:33.030" end="02:01:39.250">showed you earlier I can share these dictionaries across my various bots?</p>
+      <p begin="02:01:39.250" end="02:01:43.710">Now rules are great and critical for getting started but as you</p>
+      <p begin="02:01:43.710" end="02:01:48.240">start getting more and more users and more and more response data rules can</p>
+      <p begin="02:01:48.240" end="02:01:55.370">be very complex to manage and this is where we provide you with another tool.</p>
+      <p begin="02:01:55.370" end="02:01:58.220">Here we use machine learning</p>
+      <p begin="02:01:58.220" end="02:02:02.440">and deep learning to create your conversation model.</p>
+      <p begin="02:02:02.440" end="02:02:06.890">So, building upon what I just showed you we automatically add</p>
+      <p begin="02:02:06.890" end="02:02:11.700">your semantic dictionary and your rules we also make it really easy for you to upload</p>
+      <p begin="02:02:11.700" end="02:02:16.570">additional training data to get started now we know.</p>
+      <p begin="02:02:17.620" end="02:02:21.260">That people can be very unpredictable as they user bots.</p>
+      <p begin="02:02:22.400" end="02:02:24.190">So, here you can see a</p>
+      <p begin="02:02:24.190" end="02:02:31.380">user has said can you deliver three large pepperoni pizzas to my crib.</p>
+      <p begin="02:02:31.380" end="02:02:36.130">So, you're laughing so, you know, and, I know that my crib is slang for</p>
+      <p begin="02:02:36.130" end="02:02:40.660">house but the system doesn't know that so it's really easy for me if I</p>
+      <p begin="02:02:40.660" end="02:02:46.320">think it's appropriate to tag it as a location and</p>
+      <p begin="02:02:46.320" end="02:02:51.910">save so it's that easy to help teach your bot and help</p>
+      <p begin="02:02:51.910" end="02:02:56.170">become smarter and you don't need to be a data science expert in</p>
+      <p begin="02:02:56.170" end="02:02:59.990">fact you don't even really need to know how to code to help your bot improve.</p>
+      <p begin="02:03:01.160" end="02:03:07.810">So, that's pretty cool right.</p>
+      <p begin="02:03:07.810" end="02:03:10.320">All right so finally we</p>
+      <p begin="02:03:10.320" end="02:03:15.160">know intelligent systems have their limitations so here I take send me</p>
+      <p begin="02:03:15.160" end="02:03:23.090">a large pepperoni pizza a to moscone a that too.</p>
+      <p begin="02:03:23.090" end="02:03:26.920">Eric and here my body's telling me I don't understand.</p>
+      <p begin="02:03:28.050" end="02:03:31.510">And, what it can do for tasks that are rare complex?</p>
+      <p begin="02:03:34.230" end="02:03:38.180">Or just that it doesn't understand it can automatically escalate</p>
+      <p begin="02:03:38.180" end="02:03:42.410">to a person and this is something that we think is a great example of</p>
+      <p begin="02:03:42.410" end="02:03:45.780">what satya mentioned earlier to combine what people do</p>
+      <p begin="02:03:45.780" end="02:03:55.240">best with the intelligent system so let's take a look at what the worker might see.</p>
+      <p begin="02:03:55.240" end="02:03:58.530">All right so here as I'm working</p>
+      <p begin="02:03:58.530" end="02:04:03.260">the system in real time is automatically suggesting me responses and you can</p>
+      <p begin="02:04:03.260" end="02:04:07.950">see those responses below my text entry in the chat window.</p>
+      <p begin="02:04:07.950" end="02:04:10.230">And, then on the side the system</p>
+      <p begin="02:04:10.230" end="02:04:15.120">is automatically pre-filling my order form based on what it knows.</p>
+      <p begin="02:04:15.120" end="02:04:19.740">Now I can see here the system has incorrectly</p>
+      <p begin="02:04:19.740" end="02:04:26.820">classified moscone is a person so all I need to do it again is click.</p>
+      <p begin="02:04:26.820" end="02:04:30.570">Correct the annotation and save it.</p>
+      <p begin="02:04:30.570" end="02:04:33.970">The system prompts me to clarify that its moscone</p>
+      <p begin="02:04:33.970" end="02:04:38.630">center and again my suggested response is update I can just click</p>
+      <p begin="02:04:38.630" end="02:04:50.580">and enter to have to facilitate my interaction with my customer.</p>
+      <p begin="02:04:50.580" end="02:04:53.240">So, this is exciting because while working I can</p>
+      <p begin="02:04:53.240" end="02:04:56.950">continue to teach my bot without needing to know</p>
+      <p begin="02:04:56.950" end="02:05:03.300">natural language machine learning deep learning or even coding.</p>
+      <p begin="02:05:03.300" end="02:05:06.610">All of my input can make the system more intelligent and</p>
+      <p begin="02:05:06.610" end="02:05:09.900">the intelligent system can help me get my work done more effectively</p>
+      <p begin="02:05:11.150" end="02:05:15.790">that's it for my sneak peek we know we have a lot to learn.</p>
+      <p begin="02:05:15.790" end="02:05:27.010">As we continue to experiment and make we will make these tools more broadly available.</p>
+      <p begin="02:05:27.010" end="02:05:31.330">And, of course as you've already heard you can get started today with both</p>
+      <p begin="02:05:31.330" end="02:05:35.420">the bot framework that dan showed you earlier to build and connect your bot</p>
+      <p begin="02:05:35.420" end="02:05:37.250">to places people connect</p>
+      <p begin="02:05:37.250" end="02:05:41.480">skype bot tools and also cornelia is up next to show you the</p>
+      <p begin="02:05:41.480" end="02:05:48.400">new cognitive services which will help make your tools more intelligent thank you.</p>
+      <p begin="02:05:48.400" end="02:05:51.320">Thank you lili.</p>
+      <p begin="02:05:51.320" end="02:05:53.770">Ria hello everybody in a</p>
+      <p begin="02:05:53.770" end="02:05:58.380">year ago we introduced the first portfolio of intelligent services</p>
+      <p begin="02:05:58.380" end="02:06:02.810">from microsoft we had five apis for you to go use</p>
+      <p begin="02:06:02.810" end="02:06:05.810">and add intelligence to your apps.</p>
+      <p begin="02:06:05.810" end="02:06:10.370">Well, today I want to introduce you to microsoft dot com slash cognitive</p>
+      <p begin="02:06:10.370" end="02:06:15.070">our new portfolio of intelligent services and we have twenty-two</p>
+      <p begin="02:06:15.070" end="02:06:19.590">apis for you to get started with for free today.</p>
+      <p begin="02:06:19.590" end="02:06:22.860">We have apis we have apis</p>
+      <p begin="02:06:22.860" end="02:06:28.960">across vision from image to video understanding speech.</p>
+      <p begin="02:06:28.960" end="02:06:30.560">Language understanding apis.</p>
+      <p begin="02:06:31.790" end="02:06:32.820">Knowledge apis.</p>
+      <p begin="02:06:33.830" end="02:06:37.560">And, of course search apis through bing</p>
+      <p begin="02:06:37.560" end="02:06:41.970">twenty-two apis for you to get started with this is years</p>
+      <p begin="02:06:41.970" end="02:06:46.610">of machine learning and ai research from microsoft ready for you to use</p>
+      <p begin="02:06:46.610" end="02:06:54.140">at your fingertips now you can just samoa.</p>
+      <p begin="02:06:54.140" end="02:06:58.420">You can just imagine all the cool stuff you can build with these apis and to showcase what's</p>
+      <p begin="02:06:58.420" end="02:07:02.650">possible I'm going to show you a handful of demos the first</p>
+      <p begin="02:07:02.650" end="02:07:07.470">I'll show you is a quick app we put together all I need to do in</p>
+      <p begin="02:07:07.470" end="02:07:12.160">this app is either take a photo or upload some image url logistic</p>
+      <p begin="02:07:12.160" end="02:07:16.980">this desk here and use that it calls into the new vision apis and</p>
+      <p begin="02:07:16.980" end="02:07:26.990">what that is able to do is able to recognize objects in the image?</p>
+      <p begin="02:07:26.990" end="02:07:31.690">There are thousands of objects we can recognize and we also give you a confidence score if</p>
+      <p begin="02:07:31.690" end="02:07:36.690">the confidence is low, you know, we're not quite sure if for seeing what we say we're seeing if the</p>
+      <p begin="02:07:36.690" end="02:07:41.680">confidence is high you can probably take it for real.</p>
+      <p begin="02:07:41.680" end="02:07:46.760">Now it's cool we have object recognition we can take it a step further and role show you</p>
+      <p begin="02:07:46.760" end="02:07:52.250">in my next demo we can take it a step further by not just recognizing objects but also figuring</p>
+      <p begin="02:07:52.250" end="02:07:56.940">out the relationships behind them and then using natural language to create</p>
+      <p begin="02:07:56.940" end="02:08:00.440">a coherent description of what you're seeing in the image.</p>
+      <p begin="02:08:01.480" end="02:08:05.450">This is caption bot that ai and you them aware side we're going to allow you to</p>
+      <p begin="02:08:05.450" end="02:08:09.920">play with today I went in earlier picked up a couple of random images</p>
+      <p begin="02:08:09.920" end="02:08:15.520">off of bing and now let's see what our little caption bot signal to say</p>
+      <p begin="02:08:15.520" end="02:08:20.090">its thinks it's a herd of cattle standing on a dry grass field I love the fact</p>
+      <p begin="02:08:20.090" end="02:08:24.560">that it gives the vocabulary right that doesn't say group of cattle or group of animals no it's a</p>
+      <p begin="02:08:24.560" end="02:08:31.690">herd of cattle and it also sees that it's a dry grass field.</p>
+      <p begin="02:08:31.690" end="02:08:36.350">This is the mona lisa as most of you here now let's see what.</p>
+      <p begin="02:08:36.350" end="02:08:41.350">Our little caption bot can do.</p>
+      <p begin="02:08:41.350" end="02:08:46.160">All right so trips of its as I'm not really confident but I think if we have a heart</p>
+      <p begin="02:08:46.160" end="02:08:52.580">of the vinci sitting in front of the mirror and he seems neutral faced.</p>
+      <p begin="02:08:52.580" end="02:08:57.110">This goes to show you our bot wasn't taught any art so then it doesn't</p>
+      <p begin="02:08:57.110" end="02:09:01.850">recognize the masters of the renaissance of their masterpieces we haven't</p>
+      <p begin="02:09:01.850" end="02:09:06.780">shown it any of that data we've only shown it landscapes and gatherings and,</p>
+      <p begin="02:09:06.780" end="02:09:10.830">you know, your average day-to-day life to learn from.</p>
+      <p begin="02:09:10.830" end="02:09:15.610">And, I showed you this example to show just how important data is when you are</p>
+      <p begin="02:09:15.610" end="02:09:20.820">trying to take advantage of these machine learning a services an apis and</p>
+      <p begin="02:09:20.820" end="02:09:25.200">we're working on allowing you to bring your own data to these algorithms</p>
+      <p begin="02:09:25.200" end="02:09:29.240">and customize them for your needs.</p>
+      <p begin="02:09:29.240" end="02:09:32.630">Which frankly into my third demo?</p>
+      <p begin="02:09:32.630" end="02:09:38.390">This demo is a quick little app that we put together to show you a service we call</p>
+      <p begin="02:09:38.390" end="02:09:43.080">Custom recognition intelligent service it allows you to bring any audio</p>
+      <p begin="02:09:43.080" end="02:09:47.860">files and customize our speech-to-text technology that's already shipped in</p>
+      <p begin="02:09:47.860" end="02:09:51.890">products like cortana and bing so if your scenario</p>
+      <p begin="02:09:51.890" end="02:09:56.400">calls for audio that has a lot of background noise think of,</p>
+      <p begin="02:09:56.400" end="02:10:01.220">you know, a busy drive-through and you're trying to understand what you're customers ordering or think, you</p>
+      <p begin="02:10:01.220" end="02:10:06.140">know, you're trying to understand what people with heavy romanian accents like me are trying to say</p>
+      <p begin="02:10:06.140" end="02:10:11.090">well you bring those files and you're able to train the speech-to-text algorithms</p>
+      <p begin="02:10:11.090" end="02:10:17.450">to have higher precision for your scenarios what I'm showing you here is an example that we</p>
+      <p begin="02:10:17.450" end="02:10:21.820">trained with child speech and I hope the audio is hooked up because it's important to realize</p>
+      <p begin="02:10:21.820" end="02:10:26.710">just how bad the audio can be here and the difference between speech regular speech-to-text versus</p>
+      <p begin="02:10:26.710" end="02:10:31.950">cris left side shows you regular speech-to-text right side is</p>
+      <p begin="02:10:31.950" end="02:10:38.080">cris and now let's see what our system is able to recognize.</p>
+      <p begin="02:10:38.080" end="02:10:40.850">Chance like large bash.</p>
+      <p begin="02:10:40.850" end="02:10:46.940">They use case badge collects star.</p>
+      <p begin="02:10:46.940" end="02:10:52.490">We had some kids here read a book about giants and you can clearly see that cris gets</p>
+      <p begin="02:10:52.490" end="02:10:58.520">kids not talking about dancing is talking about giants and the fact that they love large bags.</p>
+      <p begin="02:10:58.520" end="02:10:59.020">No.</p>
+      <p begin="02:11:01.360" end="02:11:04.970">Thank you.</p>
+      <p begin="02:11:04.970" end="02:11:09.720">Now these demos are all fun I'm going to finish up by showing showing you a real</p>
+      <p begin="02:11:09.720" end="02:11:13.220">customer scenario witti globe is a</p>
+      <p begin="02:11:13.220" end="02:11:17.190">startup and they do real-time twitter analysis</p>
+      <p begin="02:11:17.190" end="02:11:22.080">monitoring they try to create a twitter analysis for anything from</p>
+      <p begin="02:11:22.080" end="02:11:26.660">brands to politics and I went in earlier and use the</p>
+      <p begin="02:11:26.660" end="02:11:31.310">products the dashboard that they offer their customers to actually create a dashboard for</p>
+      <p begin="02:11:31.310" end="02:11:35.550">the current presidential elections you can see them move</p>
+      <p begin="02:11:35.550" end="02:11:40.550">the entire election and this and this little blurb here the cool thing of a visual with that</p>
+      <p begin="02:11:40.550" end="02:11:45.940">it doesn't just give you these mood indicators it also offers extra of our context</p>
+      <p begin="02:11:45.940" end="02:11:50.950">like the gender of the people who tweet or their age ranges and,</p>
+      <p begin="02:11:50.950" end="02:11:55.700">creating these gender and age range indicators they actually use the vision apis</p>
+      <p begin="02:11:55.700" end="02:12:01.110">from cognitive services they use the vision apis to look at the profile image and add extra</p>
+      <p begin="02:12:01.110" end="02:12:06.100">precision to the age or the gender identification are they further</p>
+      <p begin="02:12:06.100" end="02:12:10.860">use cognitive services also filter out any kind of tweets or content</p>
+      <p begin="02:12:10.860" end="02:12:15.670">that are just irrelevant to the dashboards they are trying to create.</p>
+      <p begin="02:12:15.670" end="02:12:21.150">Now just like vidigrove who is one of the partners who has started testing our apis early on</p>
+      <p begin="02:12:21.150" end="02:12:24.640">you can go to microsoft dot com slash cognitive</p>
+      <p begin="02:12:24.640" end="02:12:28.390">today and get started for free we can't wait to see the</p>
+      <p begin="02:12:28.390" end="02:12:38.930">stuff you build with these cool apis thank you.</p>
+      <p begin="02:12:38.930" end="02:12:41.640">Thank you so much cornelia so hopefully you get</p>
+      <p begin="02:12:41.640" end="02:12:48.010">feel for the richness of these intelligent services that you can</p>
+      <p begin="02:12:48.010" end="02:12:50.150">And, now it is up to each of</p>
+      <p begin="02:12:50.150" end="02:12:53.210">faucets developers to imagine</p>
+      <p begin="02:12:53.210" end="02:12:57.790">what's possible imagine what boeing can do to</p>
+      <p begin="02:12:57.790" end="02:13:02.020">the business applications in the aerospace industry what case western</p>
+      <p begin="02:13:02.020" end="02:13:06.780">reserve can do to medical education what nasa can do</p>
+      <p begin="02:13:06.780" end="02:13:11.990">for space exploration what a fast-food restaurant can do</p>
+      <p begin="02:13:11.990" end="02:13:16.110">for order-taking through a drive-through using cris.</p>
+      <p begin="02:13:16.110" end="02:13:20.700">What a new saw organization can do to be able to interpret all</p>
+      <p begin="02:13:20.700" end="02:13:26.890">tax all images all videos on a social media stream in real time?</p>
+      <p begin="02:13:26.890" end="02:13:28.390">And, one developer</p>
+      <p begin="02:13:29.430" end="02:13:34.030">truly inspired me this last year very close to home for us at</p>
+      <p begin="02:13:34.030" end="02:13:50.810">microsoft I want to see what he dreamt of roll the video.</p>
+      <p begin="02:13:50.810" end="02:13:53.250">I'm saqib shaikh spiced</p>
+      <p begin="02:13:53.250" end="02:14:00.710">site when I was seven shortly after that I went to a school for the blind and that's way</p>
+      <p begin="02:14:00.710" end="02:14:07.350">who is continues to be talking computers and that radio open up a whole new world of ching.</p>
+      <p begin="02:14:07.350" end="02:14:11.180">Joined microsoft ten years ago as a software engineer by</p>
+      <p begin="02:14:11.180" end="02:14:15.010">love-making things which improve people's lives and one of the</p>
+      <p begin="02:14:15.010" end="02:14:19.880">things are always dreamt of since I was a university was this idea of something</p>
+      <p begin="02:14:19.880" end="02:14:26.110">back and tell you attending my but what's going on around.</p>
+      <p begin="02:14:26.110" end="02:14:32.010">I think it's a man jumping in the air doing a trick on a skateboard.</p>
+      <p begin="02:14:32.010" end="02:14:36.330">I teamed up with like-minded today is to make about which that today to and what is</p>
+      <p begin="02:14:36.330" end="02:14:41.970">around you states-based on top of the microsoft intelligence apis which</p>
+      <p begin="02:14:41.970" end="02:14:47.410">makes it so much easier to make this kind of thing the app runs on smartphones but also the on the pivot</p>
+      <p begin="02:14:47.410" end="02:14:50.800">head smartglasses when you're talking to a</p>
+      <p begin="02:14:50.800" end="02:14:55.470">bigger group tugs you can token there's no response and you think</p>
+      <p begin="02:14:55.470" end="02:15:02.680">is everyone listening greatly well or are they half-asleep and he never?</p>
+      <p begin="02:15:02.680" end="02:15:07.250">I see to faces forty-year-old man with the beard looking surprised</p>
+      <p begin="02:15:07.250" end="02:15:11.630">twenty-year-old woman looking happy the app can describe the general</p>
+      <p begin="02:15:11.630" end="02:15:17.800">age and gender of the people around me and what the relations off which is incredible?</p>
+      <p begin="02:15:17.800" end="02:15:22.070">One of things that's most useful bad the app is the ability to</p>
+      <p begin="02:15:22.070" end="02:15:23.850">read our text moi.</p>
+      <p begin="02:15:26.980" end="02:15:29.860">Could use the app on my side to take a picture of the</p>
+      <p begin="02:15:29.860" end="02:15:34.400">many and is going to guide me on how to take the correct photo</p>
+      <p begin="02:15:34.400" end="02:15:40.580">move camera to the bottom right away from the document and they will recognize the text redmi</p>
+      <p begin="02:15:40.580" end="02:15:45.420">the having ic appetizers salad ponies pizzas</p>
+      <p begin="02:15:45.420" end="02:15:51.300">pastas and years ago this was science-fiction I never thought it would be something that you</p>
+      <p begin="02:15:51.300" end="02:15:55.280">can actually do artificial intelligence days improving had to have a</p>
+      <p begin="02:15:55.280" end="02:15:59.540">faster right I'm really excited see where we can take moi?</p>
+      <p begin="02:15:59.540" end="02:16:03.920">As and today is always standing on the shoulders of giants building on top of</p>
+      <p begin="02:16:03.920" end="02:16:08.630">what went before in this case we've taken years of research from microsoft research to pull this</p>
+      <p begin="02:16:08.630" end="02:16:13.530">off I think it's a young girl throwing in orange frisbee in the dark for me it's</p>
+      <p begin="02:16:13.530" end="02:16:23.040">about taking that far-off dream and building one-step-at-a-time I think this is just the beginning.</p>
+      <p begin="02:16:41.880" end="02:16:45.250">Well-meaning it copter privilege.</p>
+      <p begin="02:16:46.390" end="02:16:50.300">To have a chance to share the stage with soggy.</p>
+      <p begin="02:16:50.300" end="02:16:54.960">And, you know, saqib took his passion his</p>
+      <p begin="02:16:54.960" end="02:16:55.460">empathy.</p>
+      <p begin="02:16:56.830" end="02:16:59.470">And, is going to change the world?</p>
+      <p begin="02:16:59.470" end="02:17:04.010">And, to me that's what build is all about he's here in</p>
+      <p begin="02:17:04.010" end="02:17:08.620">fact at build to network inspire other developers</p>
+      <p begin="02:17:08.620" end="02:17:12.920">learn himself on how to take is applications and make them better</p>
+      <p begin="02:17:12.920" end="02:17:16.340">but more importantly he's also here to teach she's got a couple</p>
+      <p begin="02:17:16.340" end="02:17:20.630">of your sessions that he's going to do as well and to me that's what makes</p>
+      <p begin="02:17:20.630" end="02:17:25.500">these developer conferences magical it is about being able to take our</p>
+      <p begin="02:17:25.500" end="02:17:30.260">passions our empathy and go after the opportunities that</p>
+      <p begin="02:17:30.260" end="02:17:34.850">we see go after the dreams that we have and what's a key was done has been</p>
+      <p begin="02:17:34.850" end="02:17:39.280">a real inspiration for me and we as developers have this tremendous opportunity</p>
+      <p begin="02:17:39.280" end="02:17:44.270">in a tremendous responsibility because not only do we get to dream</p>
+      <p begin="02:17:44.270" end="02:17:49.090">of the future we get to build the future I can wait to see</p>
+      <p begin="02:17:49.090" end="02:17:54.240">what you dream up and what you build thank you so very much have a fantastic build</p>
+      <p begin="02:17:54.240" end="02:17:58.140">faithfully?</p>
+
+    </div>
+  </body>
+</tt>
