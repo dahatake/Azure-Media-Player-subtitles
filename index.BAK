@@ -26,7 +26,7 @@
 	<a target="_blank" href="KEY01_mid.mp4.tlh.ttml">クリンゴン語</a>
 	<div>
 		<video id="videoPlayer" controls="controls" autoplay="autoplay" width="1000"
-			src="https://dahatakemedia.blob.core.windows.net/asset-4e3ec4a9-deaf-497f-922f-da2098306fa1/KEY01_mid.mp4?sv=2012-02-12&sr=c&si=ac03b6ec-59e5-4a3f-bd63-d3c90f8a619e&sig=14Z4zBF5PQ%2B25yHh0lO28fNXXo8pFz82LIsgnVZemCs%3D&se=2018-03-05T17%3A41%3A37Z">
+			src="https://dahatakemedia.blob.core.windows.net/asset-4e3ec4a9-deaf-497f-922f-da2098306fa1/KEY01_mid.mp4?sv=2012-02-12&sr=c&si=e52798da-7ef0-4ec5-8442-2faefbef986d&sig=L3pQgIom4pKKnB7Z0AXmdkc6G6pcZQXu2aa0TT7O1rg%3D&se=2026-05-09T05%3A35%3A13Z">
 			<track id="trackEN"  src="KEY01_mid.mp4.ttml"     kind="captions" label="英語" default></track>
 			<track id="trackJP"  src="KEY01_mid.mp4.ja.ttml"  kind="captions" label="日本語"></track>
 			<track id="trackES"  src="KEY01_mid.mp4.es.ttml"  kind="captions" label="スペイン語"></track>
