@@ -42,24 +42,9 @@
 	<h5>
 	ご利用のデバイスとネットワークの状態次第では、再生できない場合がありますのでご了承ください。
 </h5>
-<!--
-アプリケーションに関するエンド ユーザーの利用状況分析を収集するには、
-追跡する各ページに以下のスクリプトを挿入します。
-このコードを、終了 </head> タグの直前と、
-andその他のすべてのスクリプトの前に配置します。最初のデータが数秒後に
-自動的に表示されます。
--->
-<script type="text/javascript">
-    var appInsights=window.appInsights||function(config){
-        function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
-    }({
-        instrumentationKey:"8469cf64-9e1b-4356-bcc4-883189541c95"
-    });
-    
-    window.appInsights=appInsights;
-    appInsights.trackPageView();
-</script>
 
+
+<script type="text/javascript">  var appInsights=window.appInsights||function(config){    function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t    }({        instrumentationKey:"7db5855e-b6cc-4330-88ee-9088d26aa776"    });           window.appInsights=appInsights;    appInsights.trackPageView();</script>
 	
 </body>
 </html>
