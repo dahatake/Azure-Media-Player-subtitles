@@ -26,7 +26,7 @@
 	<a target="_blank" href="KEY01_mid.mp4.tlh.ttml">クリンゴン語</a>
 	<div>
 		<video id="videoPlayer" controls="controls" autoplay="autoplay" width="1000"
-			src="https://dahatakemedia.blob.core.windows.net/asset-ae920c57-f652-460b-85df-d352c0dbb6a5/KEY01_mid.mp4?sv=2012-02-12&sr=c&si=a85da378-5712-483f-b5db-f2ee98a1526e&sig=sst1KfZTwTOxQW%2BvVyXfWlaHodFBpWQc%2BHreW%2BdL0CU%3D&st=2016-06-13T11%3A04%3A20Z&se=2116-06-13T11%3A04%3A20Z">
+			src="http://video.ch9.ms/ch9/d72d/467b3cad-1fdf-4d0b-9728-e9b55e6ad72d/KEY01_mid.mp4">
 			<track id="trackEN"  src="KEY01_mid.mp4.ttml"     kind="captions" label="英語" default></track>
 			<track id="trackJP"  src="KEY01_mid.mp4.ja.ttml"  kind="captions" label="日本語"></track>
 			<track id="trackES"  src="KEY01_mid.mp4.es.ttml"  kind="captions" label="スペイン語"></track>
@@ -42,9 +42,24 @@
 	<h5>
 	ご利用のデバイスとネットワークの状態次第では、再生できない場合がありますのでご了承ください。
 </h5>
+<!--
+アプリケーションに関するエンド ユーザーの利用状況分析を収集するには、
+追跡する各ページに以下のスクリプトを挿入します。
+このコードを、終了 </head> タグの直前と、
+andその他のすべてのスクリプトの前に配置します。最初のデータが数秒後に
+自動的に表示されます。
+-->
+<script type="text/javascript">
+    var appInsights=window.appInsights||function(config){
+        function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
+    }({
+        instrumentationKey:"8469cf64-9e1b-4356-bcc4-883189541c95"
+    });
+    
+    window.appInsights=appInsights;
+    appInsights.trackPageView();
+</script>
 
-
-<script type="text/javascript">  var appInsights=window.appInsights||function(config){    function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t    }({        instrumentationKey:"7db5855e-b6cc-4330-88ee-9088d26aa776"    });           window.appInsights=appInsights;    appInsights.trackPageView();</script>
 	
 </body>
 </html>
